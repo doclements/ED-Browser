@@ -1,0 +1,136 @@
+{ "timestamp":"2016-12-14T20:38:41Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-14T20:39:19Z", "event":"LoadGame", "Commander":"Coccolithophore", "Ship":"CobraMkIII", "ShipID":0, "GameMode":"Solo", "Credits":3186357, "Loan":0 }
+{ "timestamp":"2016-12-14T20:39:19Z", "event":"Rank", "Combat":1, "Trade":2, "Explore":2, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-14T20:39:19Z", "event":"Progress", "Combat":2, "Trade":81, "Explore":7, "Empire":0, "Federation":22, "CQC":0 }
+{ "timestamp":"2016-12-14T20:39:48Z", "event":"Location", "Docked":false, "StarSystem":"Aeternitas", "StarPos":[-1.500,-14.656,56.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Houtman City", "BodyType":"Station", "SystemFaction":"Aeternitas Industries", "FactionState":"Boom" }
+{ "timestamp":"2016-12-14T20:40:23Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T20:42:22Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Aeternitas", "BodyType":"Star" }
+{ "timestamp":"2016-12-14T20:43:19Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kumo Crew Watch;", "From_Localised":"Kumo Crew Watch", "Message":"$PowersPirate_OnStartScanCargo02;", "Message_Localised":"The boss likes me to check everyone who comes through here.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:44:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kumo Crew Watch;", "From_Localised":"Kumo Crew Watch", "Message":"$Pirate_OnEnemyShipDetection07;", "Message_Localised":"Hostile ships on the scanner.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:44:53Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:44:53Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation06;", "Message_Localised":"Crime response team in situ. Security sweep and scan commencing.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:45:00Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-14T20:45:00Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate02;", "Message_Localised":"Incident response units on station.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:45:01Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation06;", "Message_Localised":"Crime response team in situ. Security sweep and scan commencing.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:45:47Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":30405 } ], "TotalReward":30405, "VictimFaction":"Archon Delaine" }
+{ "timestamp":"2016-12-14T20:46:05Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 }, { "Faction":"Federation", "Reward":4200 } ], "TotalReward":4600, "VictimFaction":"Archon Delaine" }
+{ "timestamp":"2016-12-14T20:46:18Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch11;", "Message_Localised":"We didn't find anything on you this time.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:46:21Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch10;", "Message_Localised":"Everything looks fine, Commander. Have a good day.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:46:25Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-14T20:46:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Torval's Shield;", "From_Localised":"Torval's Shield", "Message":"$Pirate_OnDeclarePiracyAttack12;", "Message_Localised":"I'm coming for you!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:47:17Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Torval's Shield;", "From_Localised":"Torval's Shield", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:47:22Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 }, { "Faction":"Federation", "Reward":9900 } ], "TotalReward":10300, "VictimFaction":"Zemina Torval" }
+{ "timestamp":"2016-12-14T20:47:23Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Edenfjord;", "From_Localised":"Edenfjord", "Message":"$BadKarmaCriticalDamage06;", "Message_Localised":"I hadn't expected this.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:49:32Z", "event":"MaterialDiscovered", "Category":"Encoded", "Name":"shieldpatternanalysis", "DiscoveryNumber":9 }
+{ "timestamp":"2016-12-14T20:49:32Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-14T20:50:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Phillbo;", "From_Localised":"Phillbo", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:50:36Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-14T20:51:24Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-14T20:51:42Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Phillbo;", "From_Localised":"Phillbo", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:52:30Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":98405 } ], "TotalReward":98405, "VictimFaction":"Nationals of Algreit" }
+{ "timestamp":"2016-12-14T20:52:43Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation02;", "Message_Localised":"Cease and desist! Submit to authority scans immediately!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:52:53Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation06;", "Message_Localised":"Crime response team in situ. Security sweep and scan commencing.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:53:13Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T20:53:32Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=JP;", "From_Localised":"JP", "Message":"$Pirate_HunterHostileSC_Relevant03;", "Message_Localised":"I've come a long way for what's in your hold, don't try to run!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:55:02Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Houtman City", "BodyType":"Station" }
+{ "timestamp":"2016-12-14T20:55:03Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:55:09Z", "event":"DockingRequested", "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T20:55:09Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:55:10Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T20:55:10Z", "event":"DockingGranted", "LandingPad":6, "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T20:56:18Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-14T20:56:43Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":143710 }
+{ "timestamp":"2016-12-14T20:57:03Z", "event":"RepairAll", "Cost":1103 }
+{ "timestamp":"2016-12-14T20:57:04Z", "event":"BuyAmmo", "Cost":1880 }
+{ "timestamp":"2016-12-14T20:58:29Z", "event":"RefuelAll", "Cost":16, "Amount":0.306188 }
+{ "timestamp":"2016-12-14T20:58:31Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Per;", "From_Localised":"Per", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:00:30Z", "event":"ModuleSell", "Slot":"Slot02_Size4", "SellItem":"$int_fsdinterdictor_size4_class1_name;", "SellItem_Localised":"FSD Interdictor", "SellPrice":263424, "Ship":"cobramkiii", "ShipID":0 }
+{ "timestamp":"2016-12-14T21:00:50Z", "event":"ModuleBuy", "Slot":"Slot02_Size4", "BuyItem":"$int_hullreinforcement_size4_class1_name;", "BuyItem_Localised":"Hull Reinforcement", "BuyPrice":65000, "Ship":"cobramkiii", "ShipID":0 }
+{ "timestamp":"2016-12-14T21:01:28Z", "event":"SellExplorationData", "Systems":[ "Tascheter Sector LX-U b2-1", "Mammentum", "Core Sys Sector CB-O a6-0", "LP 590-137", "Core Sys Sector WJ-R a4-1", "Core Sys Sector GH-M a7-3" ], "Discovered":[  ], "BaseValue":24182, "Bonus":0 }
+{ "timestamp":"2016-12-14T21:01:50Z", "event":"Undocked", "StationName":"Houtman City", "StationType":"Orbis" }
+{ "timestamp":"2016-12-14T21:02:27Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:03:05Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T21:05:22Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Aeternitas", "BodyType":"Star" }
+{ "timestamp":"2016-12-14T21:05:31Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"bulkscandata", "Count":3 }
+{ "timestamp":"2016-12-14T21:07:14Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate05;", "Message_Localised":"Police response unit in position.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:07:16Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shielddensityreports", "Count":3 }
+{ "timestamp":"2016-12-14T21:07:16Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"bulkscandata", "Count":3 }
+{ "timestamp":"2016-12-14T21:08:20Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 } ], "TotalReward":400, "VictimFaction":"Zemina Torval" }
+{ "timestamp":"2016-12-14T21:08:26Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:10:09Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Capsola;", "From_Localised":"Capsola", "Message":"$BountyHunter_ThankYouPassedStopAndSearch03;", "Message_Localised":"I'll be watching you.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:11:47Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gal Bitton;", "From_Localised":"Gal Bitton", "Message":"$BadKarmaCriticalDamage06;", "Message_Localised":"I hadn't expected this.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:13:37Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T21:13:55Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Aeternitas", "BodyType":"Star" }
+{ "timestamp":"2016-12-14T21:14:47Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"decodedemissiondata", "Count":3 }
+{ "timestamp":"2016-12-14T21:15:12Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Aisling Guardian;", "From_Localised":"Aisling Guardian", "Message":"$Pirate_OnDeclarePiracyAttack13;", "Message_Localised":"Your end is nigh.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:15:31Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 }, { "Faction":"Federation", "Reward":10087 } ], "TotalReward":10487, "VictimFaction":"Aisling Duval" }
+{ "timestamp":"2016-12-14T21:16:40Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Steve Cotton;", "From_Localised":"Steve Cotton", "Message":"$BountyHunter_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're not the one I'm looking for. Move along.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:17:41Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Zolopa;", "From_Localised":"Peter Zolopa", "Message":"$Pirate_NiggledByNewShip03;", "Message_Localised":"So you have chosen that this day will be your last.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:17:45Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate01;", "Message_Localised":"Investigating reports of crime.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:17:45Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:17:51Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Zolopa;", "From_Localised":"Peter Zolopa", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:17:52Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-14T21:17:54Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 }, { "Faction":"Federation", "Reward":17062 } ], "TotalReward":17462, "VictimFaction":"Revolutionary Balatu Progressive Party" }
+{ "timestamp":"2016-12-14T21:18:39Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-14T21:21:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Liam Brady;", "From_Localised":"Liam Brady", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:22:07Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sir Runtlington;", "From_Localised":"Sir Runtlington", "Message":"$Police_ThankYouPassedStopAndSearch02;", "Message_Localised":"You're clean. Proceed, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:24:28Z", "event":"MaterialDiscovered", "Category":"Encoded", "Name":"scanarchives", "DiscoveryNumber":10 }
+{ "timestamp":"2016-12-14T21:24:28Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"scanarchives", "Count":3 }
+{ "timestamp":"2016-12-14T21:24:50Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gordon Hall;", "From_Localised":"Gordon Hall", "Message":"$Smuggler_NearDeath02;", "Message_Localised":"I won't let it end like this!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:24:58Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Paul Scrivens;", "From_Localised":"Paul Scrivens", "Message":"$BadKarmaCriticalDamage10;", "Message_Localised":"You've scratched my paint!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:25:01Z", "event":"Bounty", "Rewards":[ { "Faction":"Federation", "Reward":7680 } ], "TotalReward":7680, "VictimFaction":"Union of Aeternitas Liberals" }
+{ "timestamp":"2016-12-14T21:25:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Fritz Bach;", "From_Localised":"Fritz Bach", "Message":"$Escort_EscortJump08;", "Message_Localised":"The lead is down. No payday for me.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:27:59Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"scanarchives", "Count":3 }
+{ "timestamp":"2016-12-14T21:28:24Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate01;", "Message_Localised":"Investigating reports of crime.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:28:28Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:28:40Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=His Magnificent Excellency Ciaran Doherty;", "From_Localised":"His Magnificent Excellency Ciaran Doherty", "Message":"$MisfortuneCriticalDamage09;", "Message_Localised":"I'm not so easily beaten.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:28:43Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=E-UNIT;", "From_Localised":"E-UNIT", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:28:59Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-14T21:29:36Z", "event":"HullDamage", "Health":0.753611 }
+{ "timestamp":"2016-12-14T21:29:46Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-14T21:30:15Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":42860 } ], "TotalReward":42860, "VictimFaction":"Revolutionary Balatu Progressive Party" }
+{ "timestamp":"2016-12-14T21:30:34Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation02;", "Message_Localised":"Investigation is complete, you may be on your way.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:31:11Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T21:32:58Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Houtman City", "BodyType":"Station" }
+{ "timestamp":"2016-12-14T21:32:59Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:33:16Z", "event":"DockingRequested", "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T21:33:16Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:33:18Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:33:18Z", "event":"DockingGranted", "LandingPad":16, "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T21:34:08Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-14T21:34:20Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":78889 }
+{ "timestamp":"2016-12-14T21:34:40Z", "event":"RepairAll", "Cost":4645 }
+{ "timestamp":"2016-12-14T21:34:41Z", "event":"BuyAmmo", "Cost":1674 }
+{ "timestamp":"2016-12-14T21:34:42Z", "event":"RefuelAll", "Cost":28, "Amount":0.541393 }
+{ "timestamp":"2016-12-14T21:38:52Z", "event":"Undocked", "StationName":"Houtman City", "StationType":"Orbis" }
+{ "timestamp":"2016-12-14T21:39:35Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T21:41:03Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Aeternitas", "BodyType":"Star" }
+{ "timestamp":"2016-12-14T21:41:14Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"bulkscandata", "Count":3 }
+{ "timestamp":"2016-12-14T21:42:00Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-14T21:42:32Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate02;", "Message_Localised":"Incident response units on station.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:42:32Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:42:58Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":800 } ], "TotalReward":800, "VictimFaction":"Zemina Torval" }
+{ "timestamp":"2016-12-14T21:43:02Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate04;", "Message_Localised":"Emergency response squad in position.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:43:05Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:43:39Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 } ], "TotalReward":400, "VictimFaction":"Zemina Torval" }
+{ "timestamp":"2016-12-14T21:43:52Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch05;", "Message_Localised":"Scan finished. Be about your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:44:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kumo Crew Watch;", "From_Localised":"Kumo Crew Watch", "Message":"$BadKarmaCriticalDamage09;", "Message_Localised":"I can see when I'm outmatched.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:44:54Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":800 } ], "TotalReward":800, "VictimFaction":"Archon Delaine" }
+{ "timestamp":"2016-12-14T21:46:11Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Banshee Firekite;", "From_Localised":"Banshee Firekite", "Message":"$Smuggler_NearDeath01;", "Message_Localised":"Okay, okay, the cargo's all yours... This job isn't worth my life.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:49:43Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Alex Dove;", "From_Localised":"Alex Dove", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:49:51Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":51437 } ], "TotalReward":51437, "VictimFaction":"Aeternitas Industries" }
+{ "timestamp":"2016-12-14T21:51:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Darren Jones;", "From_Localised":"Darren Jones", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:51:55Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Darren Jones;", "From_Localised":"Darren Jones", "Message":"$Pirate_OnDeclarePiracyThreaten16;", "Message_Localised":"I will take your cargo. Whether you live or not is up to you.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:52:05Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Darren Jones;", "From_Localised":"Darren Jones", "Message":"$Pirate_OnDeclarePiracyAttack16;", "Message_Localised":"I have you in my sights.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:52:50Z", "event":"Bounty", "Rewards":[ { "Faction":"Aeternitas Industries", "Reward":400 }, { "Faction":"Federation", "Reward":16387 } ], "TotalReward":16787, "VictimFaction":"Union of Aeternitas Liberals" }
+{ "timestamp":"2016-12-14T21:53:20Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2016-12-14T21:55:13Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Houtman City", "BodyType":"Station" }
+{ "timestamp":"2016-12-14T21:55:14Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:55:27Z", "event":"DockingRequested", "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T21:55:27Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:55:28Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-14T21:55:28Z", "event":"DockingGranted", "LandingPad":14, "StationName":"Houtman City" }
+{ "timestamp":"2016-12-14T21:56:18Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-14T21:56:31Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":70224 }
+{ "timestamp":"2016-12-14T21:57:00Z", "event":"BuyAmmo", "Cost":1228 }
+{ "timestamp":"2016-12-14T21:57:01Z", "event":"RefuelAll", "Cost":15, "Amount":0.299098 }

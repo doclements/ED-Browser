@@ -1,0 +1,271 @@
+{ "timestamp":"2017-06-22T20:21:29Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.3.02", "build":"r143095/r0 " }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"Cargo", "Inventory":[ { "Name":"indite", "Count":15 }, { "Name":"bertrandite", "Count":11 }, { "Name":"silver", "Count":4 }, { "Name":"palladium", "Count":18 }, { "Name":"gallite", "Count":10 }, { "Name":"gold", "Count":5 }, { "Name":"samarium", "Count":10 }, { "Name":"platinum", "Count":3 }, { "Name":"osmium", "Count":10 }, { "Name":"drones", "Count":224 }, { "Name":"praseodymium", "Count":12 } ] }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"Loadout", "Ship":"Anaconda", "ShipID":16, "ShipName":"sepia II", "ShipIdent":"BL-19A", "Modules":[ { "Slot":"HugeHardpoint1", "Item":"Hpt_MiningLaser_Fixed_Medium", "On":true, "Priority":0, "Health":1.000000, "Value":22576 }, { "Slot":"MediumHardpoint1", "Item":"Hpt_MiningLaser_Fixed_Medium", "On":true, "Priority":0, "Health":1.000000, "Value":22576 }, { "Slot":"MediumHardpoint2", "Item":"Hpt_MiningLaser_Fixed_Medium", "On":true, "Priority":0, "Health":1.000000, "Value":22576 }, { "Slot":"TinyHardpoint1", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":1.000000, "Value":2975 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_ChaffLauncher_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":10, "Health":1.000000, "Value":7225 }, { "Slot":"TinyHardpoint3", "Item":"Hpt_CloudScanner_Size0_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":310844 }, { "Slot":"Armour", "Item":"Anaconda_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PaintJob", "Item":"PaintJob_Anaconda_BlackFriday_01", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size6_Class2", "On":true, "Priority":1, "Health":1.000000, "Value":599242 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size6_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":509356, "EngineerBlueprint":"Engine_Tuned", "EngineerLevel":1 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size6_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":13752602, "EngineerBlueprint":"FSD_LongRange", "EngineerLevel":5 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size5_Class1", "On":true, "Priority":2, "Health":1.000000, "Value":27011 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size8_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1482367 }, { "Slot":"Radar", "Item":"Int_Sensors_Size8_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":1482367, "EngineerBlueprint":"Sensor_Sensor_LightWeight", "EngineerLevel":2 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":83090 }, { "Slot":"ShipName0", "Item":"Nameplate_Practical03_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"ShipName1", "Item":"Nameplate_Practical03_White", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size7", "Item":"Int_CargoRack_Size7_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":1001657 }, { "Slot":"Slot02_Size6", "Item":"Int_CargoRack_Size6_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":308203 }, { "Slot":"Slot03_Size6", "Item":"Int_CargoRack_Size6_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":308203 }, { "Slot":"Slot04_Size6", "Item":"Int_CargoRack_Size6_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":308203 }, { "Slot":"Slot05_Size5", "Item":"Int_DroneControl_Collection_Size5_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":777600 }, { "Slot":"Slot06_Size5", "Item":"Int_DroneControl_Collection_Size5_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":777600 }, { "Slot":"Slot07_Size5", "Item":"Int_CargoRack_Size5_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":94831 }, { "Slot":"Slot08_Size4", "Item":"Int_ShieldGenerator_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":50689 }, { "Slot":"Slot09_Size4", "Item":"Int_Refinery_Size4_Class5", "On":true, "Priority":0, "Health":1.000000, "Value":4500846 }, { "Slot":"Slot10_Size4", "Item":"Int_DroneControl_Prospector_Size3_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":43200 }, { "Slot":"Slot13_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":1.000000, "Value":1545000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":425 }, { "Slot":"ShipCockpit", "Item":"Anaconda_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":1.000000, "Value":0 } ] }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"Materials", "Raw":[ { "Name":"chromium", "Count":31 }, { "Name":"iron", "Count":77 }, { "Name":"carbon", "Count":17 }, { "Name":"nickel", "Count":32 }, { "Name":"zinc", "Count":21 }, { "Name":"cadmium", "Count":8 }, { "Name":"phosphorus", "Count":25 }, { "Name":"germanium", "Count":17 }, { "Name":"manganese", "Count":20 }, { "Name":"yttrium", "Count":3 }, { "Name":"molybdenum", "Count":6 }, { "Name":"polonium", "Count":3 }, { "Name":"niobium", "Count":27 }, { "Name":"zirconium", "Count":9 }, { "Name":"sulphur", "Count":13 }, { "Name":"selenium", "Count":2 }, { "Name":"mercury", "Count":3 } ], "Manufactured":[ { "Name":"chemicalprocessors", "Count":11 }, { "Name":"salvagedalloys", "Count":11 }, { "Name":"shieldemitters", "Count":3 }, { "Name":"compoundshielding", "Count":24 }, { "Name":"refinedfocuscrystals", "Count":68 }, { "Name":"shieldingsensors", "Count":8 }, { "Name":"focuscrystals", "Count":9 }, { "Name":"fedproprietarycomposites", "Count":6 }, { "Name":"protolightalloys", "Count":13 }, { "Name":"galvanisingalloys", "Count":11 }, { "Name":"precipitatedalloys", "Count":9 }, { "Name":"heatconductionwiring", "Count":9 }, { "Name":"phasealloys", "Count":1 }, { "Name":"wornshieldemitters", "Count":15 }, { "Name":"configurablecomponents", "Count":12 }, { "Name":"conductivepolymers", "Count":21 }, { "Name":"chemicalmanipulators", "Count":1 }, { "Name":"fedcorecomposites", "Count":2 }, { "Name":"biotechconductors", "Count":2 }, { "Name":"protoheatradiators", "Count":1 }, { "Name":"crystalshards", "Count":3 }, { "Name":"heatresistantceramics", "Count":1 }, { "Name":"protoradiolicalloys", "Count":4 }, { "Name":"gridresistors", "Count":3 }, { "Name":"basicconductors", "Count":1 }, { "Name":"exquisitefocuscrystals", "Count":1 }, { "Name":"mechanicalscrap", "Count":1 }, { "Name":"heatdispersionplate", "Count":6 }, { "Name":"mechanicalcomponents", "Count":3 }, { "Name":"polymercapacitors", "Count":3 }, { "Name":"heatexchangers", "Count":3 }, { "Name":"conductivecomponents", "Count":6 }, { "Name":"heatvanes", "Count":3 }, { "Name":"mechanicalequipment", "Count":1 }, { "Name":"chemicaldistillery", "Count":3 }, { "Name":"conductiveceramics", "Count":2 } ], "Encoded":[ { "Name":"emissiondata", "Count":40 }, { "Name":"shieldsoakanalysis", "Count":29 }, { "Name":"shieldcyclerecordings", "Count":65 }, { "Name":"decodedemissiondata", "Count":74 }, { "Name":"classifiedscandata", "Count":3 }, { "Name":"encodedscandata", "Count":3 }, { "Name":"shielddensityreports", "Count":45 }, { "Name":"scanarchives", "Count":17 }, { "Name":"securityfirmware", "Count":3 }, { "Name":"bulkscandata", "Count":45 }, { "Name":"shieldpatternanalysis", "Count":52 }, { "Name":"scandatabanks", "Count":18 }, { "Name":"fsdtelemetry", "Count":20 }, { "Name":"encryptedfiles", "Count":3 }, { "Name":"archivedemissiondata", "Count":2 }, { "Name":"scrambledemissiondata", "Count":5 }, { "Name":"wakesolutions", "Count":7 }, { "Name":"hyperspacetrajectories", "Count":16 }, { "Name":"industrialfirmware", "Count":1 }, { "Name":"shieldfrequencydata", "Count":3 }, { "Name":"compactemissionsdata", "Count":6 }, { "Name":"disruptedwakeechoes", "Count":39 }, { "Name":"dataminedwake", "Count":1 }, { "Name":"consumerfirmware", "Count":3 } ] }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Anaconda", "ShipID":16, "ShipName":"sepia II", "ShipIdent":"BL-19A", "FuelLevel":23.301502, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"Blantyre", "Credits":37368559, "Loan":0 }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"Rank", "Combat":4, "Trade":6, "Explore":6, "Empire":2, "Federation":7, "CQC":0 }
+{ "timestamp":"2017-06-22T20:22:52Z", "event":"Progress", "Combat":78, "Trade":14, "Explore":83, "Empire":60, "Federation":18, "CQC":0 }
+{ "timestamp":"2017-06-22T20:23:07Z", "event":"Location", "Docked":false, "StarSystem":"HR 1385", "StarPos":[-6.781,-56.594,-154.656], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Colony;", "SystemEconomy_Localised":"Colony", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "Body":"HR 1385 10 A Ring", "BodyType":"PlanetaryRing", "Factions":[ { "Name":"HR 1385 Central Limited", "FactionState":"None", "Government":"Corporate", "Influence":0.670330, "Allegiance":"Federation" }, { "Name":"Union of Raidal League", "FactionState":"War", "Government":"Confederacy", "Influence":0.084915, "Allegiance":"Federation" }, { "Name":"HR 1354 Jet Netcoms Interstellar", "FactionState":"War", "Government":"Corporate", "Influence":0.125874, "Allegiance":"Federation" }, { "Name":"HIP 20350 Blue Natural Services", "FactionState":"Boom", "Government":"Corporate", "Influence":0.057942, "Allegiance":"Independent" }, { "Name":"HR 1385 Commodities", "FactionState":"Famine", "Government":"Corporate", "Influence":0.021978, "Allegiance":"Independent" }, { "Name":"Posse of HR 1385", "FactionState":"None", "Government":"Anarchy", "Influence":0.009990, "Allegiance":"Independent" }, { "Name":"Co-operative of HR 1385", "FactionState":"Famine", "Government":"Cooperative", "Influence":0.028971, "Allegiance":"Independent" } ], "SystemFaction":"HR 1385 Central Limited" }
+{ "timestamp":"2017-06-22T20:28:47Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T20:29:13Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T20:29:27Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T20:29:39Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T20:30:03Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T20:30:05Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T20:30:29Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T20:36:31Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:36:49Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:36:54Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T20:37:00Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:37:12Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:37:17Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:37:26Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:37:44Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T20:37:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T20:40:43Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:40:45Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:41:10Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:41:14Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:41:16Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:41:44Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:41:44Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:42:11Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:42:12Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:42:39Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:42:41Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:43:10Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T20:43:11Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T20:43:14Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T21:06:45Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:06:48Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:07:16Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:07:21Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:07:46Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:07:48Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T21:07:51Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:08:18Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:08:24Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:08:25Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T21:08:49Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:10:08Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:10:18Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T21:10:47Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:10:48Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T21:11:04Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:11:20Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T21:11:22Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:11:39Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:12:09Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:12:10Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:12:33Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:12:34Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:12:42Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:12:42Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:13:12Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:13:35Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:13:36Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:13:45Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:14:07Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:14:15Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T21:14:16Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2017-06-22T21:14:17Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T21:15:31Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:15:34Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:15:35Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:16:21Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:16:56Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:17:30Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:17:31Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:18:05Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:19:08Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:19:26Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:19:28Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2017-06-22T21:19:31Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T21:20:30Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T21:20:37Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:21:03Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:21:29Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:21:32Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:22:01Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:22:31Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:23:06Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T21:23:34Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T21:24:18Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:25:43Z", "event":"EjectCargo", "Type":"gallite", "Count":20, "Abandoned":true }
+{ "timestamp":"2017-06-22T21:25:44Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:25:44Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:25:46Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:26:55Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:26:58Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:27:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T21:28:03Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:28:05Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:31:32Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T21:31:32Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:32:02Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:32:03Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:32:18Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:32:24Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T21:32:26Z", "event":"MaterialCollected", "Category":"Raw", "Name":"zinc", "Count":3 }
+{ "timestamp":"2017-06-22T21:32:41Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:32:43Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:33:02Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:33:03Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T21:33:07Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:33:24Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2017-06-22T21:36:24Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T21:36:25Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:36:26Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:36:53Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:37:29Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:37:57Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:38:30Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:38:33Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T21:40:34Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T21:40:36Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T21:40:57Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:41:07Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:41:30Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:41:32Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T21:41:55Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2017-06-22T21:42:14Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T21:42:24Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T21:44:52Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T21:44:53Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:44:55Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:45:22Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:45:23Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T21:45:44Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:45:50Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:45:51Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T21:46:29Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T21:51:42Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T21:51:54Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T21:52:00Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T21:52:11Z", "event":"MiningRefined", "Type":"$osmium_name;", "Type_Localised":"Osmium" }
+{ "timestamp":"2017-06-22T21:52:13Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T21:52:15Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T22:02:02Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:02:21Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:02:38Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:02:40Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T22:02:42Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:02:58Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:03:04Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2017-06-22T22:03:07Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2017-06-22T22:03:21Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T22:05:16Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2017-06-22T22:05:17Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2017-06-22T22:05:21Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T22:08:12Z", "event":"MaterialCollected", "Category":"Raw", "Name":"zinc", "Count":3 }
+{ "timestamp":"2017-06-22T22:08:20Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:08:43Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T22:08:52Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:09:21Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T22:09:22Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:09:23Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2017-06-22T22:09:44Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2017-06-22T22:09:52Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:09:52Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T22:10:03Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T22:10:27Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T22:10:49Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:10:49Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T22:10:53Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-06-22T22:11:11Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2017-06-22T22:11:12Z", "event":"MaterialCollected", "Category":"Raw", "Name":"germanium", "Count":3 }
+{ "timestamp":"2017-06-22T22:11:12Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T22:12:59Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:13:01Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:13:36Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:13:43Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:13:54Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:14:03Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:14:03Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:14:14Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2017-06-22T22:23:11Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T22:23:12Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:23:14Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:23:30Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:23:34Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:23:35Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:23:52Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:24:06Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:24:08Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2017-06-22T22:24:25Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2017-06-22T22:32:39Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:32:41Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2017-06-22T22:33:01Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:33:24Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-06-22T22:33:46Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:34:10Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:34:22Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:34:43Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:35:00Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:35:27Z", "event":"MiningRefined", "Type":"$gold_name;", "Type_Localised":"Gold" }
+{ "timestamp":"2017-06-22T22:35:27Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2017-06-22T22:35:42Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-06-22T22:38:07Z", "event":"EjectCargo", "Type":"drones", "Count":97, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:21Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:21Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:21Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:23Z", "event":"EjectCargo", "Type":"osmium", "Count":3, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:23Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:24Z", "event":"EjectCargo", "Type":"osmium", "Count":3, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:25Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:26Z", "event":"EjectCargo", "Type":"osmium", "Count":3, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:26Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:27Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:28Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:28Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:28Z", "event":"EjectCargo", "Type":"osmium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:30Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:30Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:30Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:31Z", "event":"EjectCargo", "Type":"indite", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:31Z", "event":"EjectCargo", "Type":"platinum", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:32Z", "event":"EjectCargo", "Type":"indite", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:33Z", "event":"EjectCargo", "Type":"platinum", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:33Z", "event":"EjectCargo", "Type":"indite", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:34Z", "event":"EjectCargo", "Type":"platinum", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:35Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:35Z", "event":"EjectCargo", "Type":"praseodymium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:36Z", "event":"EjectCargo", "Type":"bertrandite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:36Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:37Z", "event":"EjectCargo", "Type":"praseodymium", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:38Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:38Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:39Z", "event":"EjectCargo", "Type":"silver", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:39Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:40Z", "event":"EjectCargo", "Type":"silver", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:40Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:41Z", "event":"EjectCargo", "Type":"silver", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:42Z", "event":"EjectCargo", "Type":"samarium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:42Z", "event":"EjectCargo", "Type":"praseodymium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:42Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:44Z", "event":"EjectCargo", "Type":"praseodymium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:44Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:44Z", "event":"EjectCargo", "Type":"praseodymium", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:46Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:46Z", "event":"EjectCargo", "Type":"praseodymium", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:46Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:47Z", "event":"EjectCargo", "Type":"praseodymium", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:48Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:48Z", "event":"EjectCargo", "Type":"praseodymium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:49Z", "event":"EjectCargo", "Type":"palladium", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:50Z", "event":"EjectCargo", "Type":"bertrandite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:50Z", "event":"EjectCargo", "Type":"gold", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:51Z", "event":"EjectCargo", "Type":"indite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:52Z", "event":"EjectCargo", "Type":"gold", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:52Z", "event":"EjectCargo", "Type":"bertrandite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:52Z", "event":"EjectCargo", "Type":"gold", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:53Z", "event":"EjectCargo", "Type":"bertrandite", "Count":5, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:54Z", "event":"EjectCargo", "Type":"gold", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:55Z", "event":"EjectCargo", "Type":"bertrandite", "Count":3, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:55Z", "event":"EjectCargo", "Type":"palladium", "Count":11, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:58Z", "event":"EjectCargo", "Type":"silver", "Count":4, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:38:59Z", "event":"EjectCargo", "Type":"bertrandite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:39:00Z", "event":"EjectCargo", "Type":"silver", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:39:00Z", "event":"EjectCargo", "Type":"gold", "Count":2, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:39:01Z", "event":"EjectCargo", "Type":"bertrandite", "Count":1, "Abandoned":false }
+{ "timestamp":"2017-06-22T22:39:01Z", "event":"EjectCargo", "Type":"gold", "Count":2, "Abandoned":false }

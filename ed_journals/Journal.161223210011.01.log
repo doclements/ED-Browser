@@ -1,0 +1,151 @@
+{ "timestamp":"2016-12-23T21:00:11Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-23T21:00:57Z", "event":"LoadGame", "Commander":"Coccolithophore", "Ship":"Vulture", "ShipID":1, "GameMode":"Solo", "Credits":34134155, "Loan":0 }
+{ "timestamp":"2016-12-23T21:00:57Z", "event":"Rank", "Combat":3, "Trade":2, "Explore":2, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-23T21:00:57Z", "event":"Progress", "Combat":2, "Trade":85, "Explore":88, "Empire":0, "Federation":56, "CQC":0 }
+{ "timestamp":"2016-12-23T21:01:26Z", "event":"Location", "Docked":true, "StationName":"Tshang City", "StationType":"Coriolis", "StarSystem":"Furuhjelm III-674", "StarPos":[-39.000,-8.125,-87.750], "SystemAllegiance":"Alliance", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Tshang City", "BodyType":"Station", "SystemFaction":"160 S.O.A.R." }
+{ "timestamp":"2016-12-23T21:01:26Z", "event":"Docked", "StationName":"Tshang City", "StationType":"Coriolis", "StarSystem":"Furuhjelm III-674", "StationFaction":"160 S.O.A.R.", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Alliance", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-23T21:02:52Z", "event":"ModuleBuy", "Slot":"TinyHardpoint3", "SellItem":"$hpt_plasmapointdefence_turret_tiny_name;", "SellItem_Localised":"Point Defence", "SellPrice":18546, "BuyItem":"$hpt_shieldbooster_size0_class5_name;", "BuyItem_Localised":"Shield Booster", "BuyPrice":281000, "Ship":"vulture", "ShipID":1 }
+{ "timestamp":"2016-12-23T21:02:58Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T21:03:55Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-23T21:04:17Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T21:04:30Z", "event":"ModuleBuy", "Slot":"TinyHardpoint4", "SellItem":"$hpt_electroniccountermeasure_tiny_name;", "SellItem_Localised":"ECM", "SellPrice":12500, "BuyItem":"$hpt_plasmapointdefence_turret_tiny_name;", "BuyItem_Localised":"Point Defence", "BuyPrice":18546, "Ship":"vulture", "ShipID":1 }
+{ "timestamp":"2016-12-23T21:04:48Z", "event":"ModuleBuy", "Slot":"TinyHardpoint3", "SellItem":"$hpt_shieldbooster_size0_class5_name;", "SellItem_Localised":"Shield Booster", "SellPrice":281000, "BuyItem":"$hpt_shieldbooster_size0_class3_name;", "BuyItem_Localised":"Shield Booster", "BuyPrice":53000, "Ship":"vulture", "ShipID":1 }
+{ "timestamp":"2016-12-23T21:04:58Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-23T21:06:30Z", "event":"ModuleBuy", "Slot":"LifeSupport", "SellItem":"$int_lifesupport_size3_class2_name;", "SellItem_Localised":"Life Support", "SellPrice":10133, "BuyItem":"$int_lifesupport_size3_class1_name;", "BuyItem_Localised":"Life Support", "BuyPrice":4053, "Ship":"vulture", "ShipID":1 }
+{ "timestamp":"2016-12-23T21:07:01Z", "event":"ModuleBuy", "Slot":"TinyHardpoint3", "SellItem":"$hpt_shieldbooster_size0_class3_name;", "SellItem_Localised":"Shield Booster", "SellPrice":53000, "BuyItem":"$hpt_shieldbooster_size0_class2_name;", "BuyItem_Localised":"Shield Booster", "BuyPrice":23000, "Ship":"vulture", "ShipID":1 }
+{ "timestamp":"2016-12-23T21:07:47Z", "event":"Undocked", "StationName":"Tshang City", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-23T21:08:15Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:08:31Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:13:28Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Furuhjelm III-674 10 A Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-23T21:14:26Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Affinity;", "From_Localised":"Affinity", "Message":"$Pirate_OnStartScanCargo10;", "Message_Localised":"Let me see what you have.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:14:36Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Affinity;", "From_Localised":"Affinity", "Message":"$Pirate_OnNoCargoFound08;", "Message_Localised":"A wasted effort. There's no cargo here.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:14:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Michael Chandler;", "From_Localised":"Michael Chandler", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:15:49Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T21:15:54Z", "event":"HullDamage", "Health":0.797718 }
+{ "timestamp":"2016-12-23T21:16:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Michael Chandler;", "From_Localised":"Michael Chandler", "Message":"$Pirate_OnDeclarePiracyAttack13;", "Message_Localised":"Your end is nigh.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:16:57Z", "event":"HullDamage", "Health":0.599576 }
+{ "timestamp":"2016-12-23T21:17:26Z", "event":"HullDamage", "Health":0.392629 }
+{ "timestamp":"2016-12-23T21:17:29Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-23T21:19:02Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":72440 } ], "TotalReward":72440, "VictimFaction":"Autocracy of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:19:32Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArriveInvestigate03;", "Message_Localised":"Crime response flight deployed.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:19:33Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation02;", "Message_Localised":"Cease and desist! Submit to authority scans immediately!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:19:38Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:24:00Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Tshang City", "BodyType":"Station" }
+{ "timestamp":"2016-12-23T21:24:16Z", "event":"DockingRequested", "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T21:24:16Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:24:17Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:24:17Z", "event":"DockingGranted", "LandingPad":14, "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T21:24:20Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:24:56Z", "event":"Docked", "StationName":"Tshang City", "StationType":"Coriolis", "StarSystem":"Furuhjelm III-674", "StationFaction":"160 S.O.A.R.", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Alliance", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-23T21:25:04Z", "event":"RepairAll", "Cost":13671 }
+{ "timestamp":"2016-12-23T21:25:19Z", "event":"RefuelAll", "Cost":21, "Amount":0.408627 }
+{ "timestamp":"2016-12-23T21:25:23Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":72440 }
+{ "timestamp":"2016-12-23T21:26:18Z", "event":"BuyAmmo", "Cost":1359 }
+{ "timestamp":"2016-12-23T21:28:14Z", "event":"Undocked", "StationName":"Tshang City", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-23T21:28:42Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:29:00Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:33:52Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Furuhjelm III-674 10 A Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-23T21:35:47Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jason Walker;", "From_Localised":"Jason Walker", "Message":"$BadKarmaCriticalDamage06;", "Message_Localised":"I hadn't expected this.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:35:54Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"decodedemissiondata", "Count":3 }
+{ "timestamp":"2016-12-23T21:36:21Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Michael Ho;", "From_Localised":"Michael Ho", "Message":"$Escort_AttackDutyStart09;", "Message_Localised":"All systems ready. Preparing for attack run.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:36:34Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Wiltaim The Lame;", "From_Localised":"Wiltaim The Lame", "Message":"$Pirate_OnStartScanCargo11;", "Message_Localised":"I hope you have something good in your hold.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:36:35Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":200 }, { "Faction":"Alliance", "Reward":8505 } ], "TotalReward":8705, "VictimFaction":"Dominion of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:36:58Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Wiltaim The Lame;", "From_Localised":"Wiltaim The Lame", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:37:07Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":1000 }, { "Faction":"Alliance", "Reward":40837 } ], "TotalReward":41837, "VictimFaction":"Dominion of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:37:49Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation06;", "Message_Localised":"Crime response team in situ. Security sweep and scan commencing.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:37:54Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ThankYouPassedStopAndSearch01;", "Message_Localised":"Thank you for your cooperation, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:38:05Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:38:26Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldcyclerecordings", "Count":3 }
+{ "timestamp":"2016-12-23T21:38:26Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"bulkscandata", "Count":3 }
+{ "timestamp":"2016-12-23T21:39:05Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dave Kincla;", "From_Localised":"Dave Kincla", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:39:35Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kyle Symes;", "From_Localised":"Kyle Symes", "Message":"$MinerCriticalDamage01;", "Message_Localised":"No, no, nooooooo!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:39:36Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":112650 } ], "TotalReward":112650, "VictimFaction":"United Sussche Partnership" }
+{ "timestamp":"2016-12-23T21:39:54Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation06;", "Message_Localised":"Rapid criminal investigation scans are finished. Please continue about your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:40:01Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation01;", "Message_Localised":"Scanning complete. Citizens, please return to your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:40:14Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:41:43Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T21:42:16Z", "event":"HullDamage", "Health":0.789242 }
+{ "timestamp":"2016-12-23T21:42:24Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":200 }, { "Faction":"Alliance", "Reward":16402 } ], "TotalReward":16602, "VictimFaction":"160 S.O.A.R." }
+{ "timestamp":"2016-12-23T21:42:43Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon removed, go back about your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:43:23Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-23T21:43:51Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gillian Irving;", "From_Localised":"Gillian Irving", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:45:34Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T21:46:05Z", "event":"HullDamage", "Health":0.596804 }
+{ "timestamp":"2016-12-23T21:46:21Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArriveInvestigate04;", "Message_Localised":"Emergency response squad in position.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:46:35Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T21:47:37Z", "event":"FSDJump", "StarSystem":"Jangore", "StarPos":[-39.188,-3.188,-86.000], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Confederacy;", "SystemGovernment_Localised":"Confederacy", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":5.242, "FuelUsed":0.287865, "FuelLevel":7.712134, "SystemFaction":"Jangore Partnership" }
+{ "timestamp":"2016-12-23T21:48:29Z", "event":"FSDJump", "StarSystem":"Furuhjelm III-674", "StarPos":[-39.000,-8.125,-87.750], "SystemAllegiance":"Alliance", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":5.242, "FuelUsed":0.287336, "FuelLevel":7.424798, "SystemFaction":"160 S.O.A.R." }
+{ "timestamp":"2016-12-23T21:50:14Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Tshang City", "BodyType":"Station" }
+{ "timestamp":"2016-12-23T21:50:36Z", "event":"DockingRequested", "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T21:50:36Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:50:37Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:50:37Z", "event":"DockingGranted", "LandingPad":13, "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T21:50:43Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:51:18Z", "event":"Docked", "StationName":"Tshang City", "StationType":"Coriolis", "StarSystem":"Furuhjelm III-674", "StationFaction":"160 S.O.A.R.", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Alliance", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-23T21:51:25Z", "event":"RepairAll", "Cost":8943 }
+{ "timestamp":"2016-12-23T21:51:47Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":179794 }
+{ "timestamp":"2016-12-23T21:52:24Z", "event":"BuyAmmo", "Cost":1851 }
+{ "timestamp":"2016-12-23T21:52:25Z", "event":"RefuelAll", "Cost":55, "Amount":1.077331 }
+{ "timestamp":"2016-12-23T21:55:33Z", "event":"Undocked", "StationName":"Tshang City", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-23T21:55:57Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T21:56:13Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T22:04:56Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Furuhjelm III-674 10 A Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-23T22:05:31Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sidney Saren;", "From_Localised":"Sidney Saren", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:05:41Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sidney Saren;", "From_Localised":"Sidney Saren", "Message":"$Pirate_OnNoCargoFound07;", "Message_Localised":"Nothing for me here.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:06:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Adonis Niko;", "From_Localised":"Adonis Niko", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:06:25Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-23T22:06:26Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-23T22:06:42Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sidney Saren;", "From_Localised":"Sidney Saren", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:06:59Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:06Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation02;", "Message_Localised":"Cease and desist! Submit to authority scans immediately!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:07Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArriveInvestigate01;", "Message_Localised":"Investigating reports of crime.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:14Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation05;", "Message_Localised":"A crime has been reported here. All ships will be scanned.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:35Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":200 }, { "Faction":"Alliance", "Reward":63652 } ], "TotalReward":63852, "VictimFaction":"Dominion of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T22:07:43Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation05;", "Message_Localised":"All scans have completed. All vessels may proceed.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:50Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ArrivedAtInvestigationLocation03;", "Message_Localised":"Crime scene cordon initialised, all ships must submit to police scan.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:07:58Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ThankYouPassedStopAndSearch06;", "Message_Localised":"We're done here pilot, move along.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:09:15Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldsoakanalysis", "Count":3 }
+{ "timestamp":"2016-12-23T22:09:21Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldcyclerecordings", "Count":3 }
+{ "timestamp":"2016-12-23T22:09:53Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=John A Rivers;", "From_Localised":"John A Rivers", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:10:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Pete Williams;", "From_Localised":"Pete Williams", "Message":"$BadKarmaCriticalDamage04;", "Message_Localised":"I don't believe it!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:10:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sorke;", "From_Localised":"Sorke", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:11:05Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sorke;", "From_Localised":"Sorke", "Message":"$Pirate_OnNoCargoFound06;", "Message_Localised":"Another dream of riches dashed.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:11:53Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation05;", "Message_Localised":"All scans have completed. All vessels may proceed.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:12:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Sorke;", "From_Localised":"Sorke", "Message":"$BadKarmaCriticalDamage08;", "Message_Localised":"I've taken too many hits.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:13:14Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_FinishedAtInvestigationLocation04;", "Message_Localised":"Crime response sweep completed. All ships are free to depart.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:13:32Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":32840 } ], "TotalReward":32840, "VictimFaction":"Dominion of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T22:13:51Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Idefix;", "From_Localised":"Idefix", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:14:10Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":400 }, { "Faction":"Alliance", "Reward":51239 } ], "TotalReward":51639, "VictimFaction":"Furuhjelm III-674 Federal Ltd" }
+{ "timestamp":"2016-12-23T22:14:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Thiery;", "From_Localised":"Thiery", "Message":"$Escort_AttackDutyStart06;", "Message_Localised":"I live for this!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:15:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Craigie;", "From_Localised":"Craigie", "Message":"$Escort_AttackRun05;", "Message_Localised":"Target locked. Preparing to fire.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:16:07Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T22:16:38Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":28340 } ], "TotalReward":28340, "VictimFaction":"Furuhjelm III-674 Federal Ltd" }
+{ "timestamp":"2016-12-23T22:16:47Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Saraphe;", "From_Localised":"Saraphe", "Message":"$Pirate_OnStartScanCargo10;", "Message_Localised":"Let me see what you have.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:16:57Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Saraphe;", "From_Localised":"Saraphe", "Message":"$Pirate_OnNoCargoFound06;", "Message_Localised":"Another dream of riches dashed.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:17:27Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":400 }, { "Faction":"Alliance", "Reward":23580 } ], "TotalReward":23980, "VictimFaction":"Furuhjelm III-674 Federal Ltd" }
+{ "timestamp":"2016-12-23T22:17:46Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marlene;", "From_Localised":"Marlene", "Message":"$BadKarmaCriticalDamage10;", "Message_Localised":"You've scratched my paint!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:17:47Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-23T22:17:52Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":14039 } ], "TotalReward":14039, "VictimFaction":"Furuhjelm III-674 Federal Ltd" }
+{ "timestamp":"2016-12-23T22:19:57Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":43220 } ], "TotalReward":43220, "VictimFaction":"United Sussche Partnership" }
+{ "timestamp":"2016-12-23T22:20:17Z", "event":"ReceiveText", "From":"$ShipName_Police_Alliance;", "From_Localised":"Allied Police Forces", "Message":"$Police_ThankYouPassedStopAndSearch08;", "Message_Localised":"All done and you're clear to proceed, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:21:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Markus Magnitz;", "From_Localised":"Markus Magnitz", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:21:11Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":200 }, { "Faction":"Alliance", "Reward":6929 } ], "TotalReward":7129, "VictimFaction":"Autocracy of Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T22:21:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Trond Meier;", "From_Localised":"Trond Meier", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:21:50Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-23T22:21:51Z", "event":"HullDamage", "Health":0.788511 }
+{ "timestamp":"2016-12-23T22:22:22Z", "event":"Bounty", "Rewards":[ { "Faction":"160 S.O.A.R.", "Reward":200 }, { "Faction":"Alliance", "Reward":36922 } ], "TotalReward":37122, "VictimFaction":"United Sussche Partnership" }
+{ "timestamp":"2016-12-23T22:23:20Z", "event":"FSDJump", "StarSystem":"Mentor", "StarPos":[-27.656,-3.500,-85.531], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":12.450, "FuelUsed":2.097311, "FuelLevel":5.332689, "SystemFaction":"Mentor Silver Bridge Industries", "FactionState":"Boom" }
+{ "timestamp":"2016-12-23T22:24:18Z", "event":"FSDJump", "StarSystem":"Furuhjelm III-674", "StarPos":[-39.000,-8.125,-87.750], "SystemAllegiance":"Alliance", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":12.450, "FuelUsed":2.069278, "FuelLevel":3.263411, "SystemFaction":"160 S.O.A.R." }
+{ "timestamp":"2016-12-23T22:26:29Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Tshang City", "BodyType":"Station" }
+{ "timestamp":"2016-12-23T22:26:53Z", "event":"SupercruiseEntry", "StarSystem":"Furuhjelm III-674" }
+{ "timestamp":"2016-12-23T22:26:57Z", "event":"SupercruiseExit", "StarSystem":"Furuhjelm III-674", "Body":"Tshang City", "BodyType":"Station" }
+{ "timestamp":"2016-12-23T22:27:12Z", "event":"DockingRequested", "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T22:27:12Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:27:14Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:27:14Z", "event":"DockingGranted", "LandingPad":16, "StationName":"Tshang City" }
+{ "timestamp":"2016-12-23T22:27:24Z", "event":"ReceiveText", "From":"Tshang City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-23T22:27:58Z", "event":"Docked", "StationName":"Tshang City", "StationType":"Coriolis", "StarSystem":"Furuhjelm III-674", "StationFaction":"160 S.O.A.R.", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Alliance", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-23T22:28:41Z", "event":"RefuelAll", "Cost":245, "Amount":4.889118 }
+{ "timestamp":"2016-12-23T22:28:43Z", "event":"RepairAll", "Cost":4823 }
+{ "timestamp":"2016-12-23T22:28:44Z", "event":"BuyAmmo", "Cost":2505 }
+{ "timestamp":"2016-12-23T22:28:49Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":302161 }

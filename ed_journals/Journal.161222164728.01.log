@@ -1,0 +1,13 @@
+{ "timestamp":"2016-12-22T16:47:28Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-22T16:49:55Z", "event":"LoadGame", "Commander":"Coccolithophore", "Ship":"Asp", "ShipID":2, "GameMode":"Solo", "Credits":43728218, "Loan":0 }
+{ "timestamp":"2016-12-22T16:49:55Z", "event":"Rank", "Combat":2, "Trade":2, "Explore":2, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-22T16:49:55Z", "event":"Progress", "Combat":94, "Trade":85, "Explore":67, "Empire":0, "Federation":56, "CQC":0 }
+{ "timestamp":"2016-12-22T16:50:29Z", "event":"Location", "Docked":true, "StationName":"Thurston Ring", "StationType":"Coriolis", "StarSystem":"Qama", "StarPos":[-86.313,-16.969,-34.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "Body":"Thurston Ring", "BodyType":"Station", "SystemFaction":"Qama Legal Ltd" }
+{ "timestamp":"2016-12-22T16:50:29Z", "event":"Docked", "StationName":"Thurston Ring", "StationType":"Coriolis", "StarSystem":"Qama", "StationFaction":"Qama Legal Ltd", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-12-22T16:51:01Z", "event":"Undocked", "StationName":"Thurston Ring", "StationType":"Coriolis" }
+{ "timestamp":"2016-12-22T16:51:27Z", "event":"ReceiveText", "From":"Thurston Ring", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-22T16:52:32Z", "event":"SupercruiseEntry", "StarSystem":"Qama" }
+{ "timestamp":"2016-12-22T16:53:31Z", "event":"SupercruiseExit", "StarSystem":"Qama", "Body":"Qama 1", "BodyType":"Planet" }
+{ "timestamp":"2016-12-22T16:55:56Z", "event":"Touchdown", "Latitude":-26.458628, "Longitude":-153.572311 }
+{ "timestamp":"2016-12-22T16:56:02Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2016-12-22T16:57:39Z", "event":"DockSRV" }

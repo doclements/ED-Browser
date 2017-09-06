@@ -1,0 +1,260 @@
+{ "timestamp":"2017-01-02T14:09:15Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2017-01-02T14:10:28Z", "event":"LoadGame", "Commander":"Coccolithophore", "Ship":"Asp", "ShipID":2, "GameMode":"Solo", "Credits":60633234, "Loan":0 }
+{ "timestamp":"2017-01-02T14:10:28Z", "event":"Rank", "Combat":3, "Trade":2, "Explore":3, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2017-01-02T14:10:28Z", "event":"Progress", "Combat":9, "Trade":85, "Explore":93, "Empire":0, "Federation":56, "CQC":0 }
+{ "timestamp":"2017-01-02T14:11:00Z", "event":"Location", "Docked":true, "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StarPos":[-1.500,-14.656,56.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Houtman City", "BodyType":"Station", "SystemFaction":"Aeternitas Industries", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T14:11:00Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2017-01-02T14:16:53Z", "event":"ModuleBuy", "Slot":"MediumHardpoint1", "BuyItem":"$hpt_dumbfiremissilerack_fixed_medium_name;", "BuyItem_Localised":"Missile Rack", "BuyPrice":240400, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T14:17:02Z", "event":"ModuleBuy", "Slot":"MediumHardpoint2", "BuyItem":"$hpt_dumbfiremissilerack_fixed_medium_name;", "BuyItem_Localised":"Missile Rack", "BuyPrice":240400, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T14:17:03Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T14:17:56Z", "event":"ModuleStore", "Slot":"PowerPlant", "StoredItem":"$int_powerplant_size4_class2_name;", "StoredItem_Localised":"Power Plant", "Ship":"asp", "ShipID":2, "EngineerModifications":"PowerPlant_Boosted" }
+{ "timestamp":"2017-01-02T14:18:00Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T14:19:01Z", "event":"MissionAccepted", "Faction":"Aeternitas Industries", "Name":"Mission_Massacre_Skimmer_Corporation", "Expiry":"2017-01-04T10:10:09Z", "MissionID":65397794 }
+{ "timestamp":"2017-01-02T14:20:27Z", "event":"BuyAmmo", "Cost":15000 }
+{ "timestamp":"2017-01-02T14:23:20Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Daniel D;", "From_Localised":"Daniel D", "Message":"$Commuter_AuthorityScan10;", "Message_Localised":"You'll get no trouble from me, officer.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T14:23:33Z", "event":"Undocked", "StationName":"Houtman City", "StationType":"Orbis" }
+{ "timestamp":"2017-01-02T14:24:37Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T14:25:02Z", "event":"FSDJump", "StarSystem":"VESPER-M4", "StarPos":[-3.688,-22.531,57.000], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Anarchy;", "SystemGovernment_Localised":"Anarchy", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "JumpDist":8.174, "FuelUsed":0.206836, "FuelLevel":39.793163, "SystemFaction":"Hammers of Slough" }
+{ "timestamp":"2017-01-02T14:29:51Z", "event":"ApproachSettlement", "Name":"Banks Vision +" }
+{ "timestamp":"2017-01-02T14:29:59Z", "event":"SupercruiseExit", "StarSystem":"VESPER-M4", "Body":"VESPER-M4 11 a", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T14:35:40Z", "event":"Touchdown", "Latitude":-4.273602, "Longitude":-34.146259 }
+{ "timestamp":"2017-01-02T14:35:49Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2017-01-02T14:38:25Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:38:49Z", "event":"Bounty", "Faction":"Revolutionary VESPER-M4 Liberals", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:38:56Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:43:16Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"phosphorus", "DiscoveryNumber":9 }
+{ "timestamp":"2017-01-02T14:43:16Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2017-01-02T14:43:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-01-02T14:43:35Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2017-01-02T14:49:06Z", "event":"DockSRV" }
+{ "timestamp":"2017-01-02T14:49:23Z", "event":"Liftoff", "Latitude":-4.239987, "Longitude":-34.272465 }
+{ "timestamp":"2017-01-02T14:51:12Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:51:15Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:51:16Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T14:51:18Z", "event":"HullDamage", "Health":0.789072 }
+{ "timestamp":"2017-01-02T14:51:19Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:51:21Z", "event":"HullDamage", "Health":0.592772 }
+{ "timestamp":"2017-01-02T14:51:23Z", "event":"HullDamage", "Health":0.396472 }
+{ "timestamp":"2017-01-02T14:51:55Z", "event":"SupercruiseEntry", "StarSystem":"VESPER-M4" }
+{ "timestamp":"2017-01-02T14:52:55Z", "event":"ApproachSettlement", "Name":"Banks Vision +" }
+{ "timestamp":"2017-01-02T14:52:57Z", "event":"SupercruiseExit", "StarSystem":"VESPER-M4", "Body":"VESPER-M4 11 a", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T14:55:24Z", "event":"Touchdown", "Latitude":-4.584690, "Longitude":-34.061260 }
+{ "timestamp":"2017-01-02T14:55:41Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2017-01-02T14:58:00Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T14:58:20Z", "event":"HullDamage", "Health":0.798998 }
+{ "timestamp":"2017-01-02T14:58:51Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T14:59:14Z", "event":"Bounty", "Faction":"$faction_Federation;", "Faction_Localised":"Federation", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T14:59:44Z", "event":"Bounty", "Faction":"Revolutionary VESPER-M4 Liberals", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T15:00:14Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T15:01:12Z", "event":"HullDamage", "Health":0.597123 }
+{ "timestamp":"2017-01-02T15:01:23Z", "event":"Bounty", "Faction":"Revolutionary VESPER-M4 Liberals", "Target":"Skimmer", "Reward":1000, "VictimFaction":"Revolutionary VESPER-M4 Liberals" }
+{ "timestamp":"2017-01-02T15:01:48Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T15:02:54Z", "event":"DockSRV" }
+{ "timestamp":"2017-01-02T15:03:00Z", "event":"Liftoff", "Latitude":-4.584690, "Longitude":-34.061256 }
+{ "timestamp":"2017-01-02T15:03:26Z", "event":"SupercruiseEntry", "StarSystem":"VESPER-M4" }
+{ "timestamp":"2017-01-02T15:09:31Z", "event":"FSDJump", "StarSystem":"Aeternitas", "StarPos":[-1.500,-14.656,56.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":8.174, "FuelUsed":0.206581, "FuelLevel":39.586582, "SystemFaction":"Aeternitas Industries", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T15:11:20Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Houtman City", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T15:11:21Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:11:39Z", "event":"DockingRequested", "StationName":"Houtman City" }
+{ "timestamp":"2017-01-02T15:11:39Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:11:40Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:11:40Z", "event":"DockingGranted", "LandingPad":35, "StationName":"Houtman City" }
+{ "timestamp":"2017-01-02T15:12:26Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2017-01-02T15:12:57Z", "event":"MissionCompleted", "Faction":"Aeternitas Industries", "Name":"Mission_Massacre_Skimmer_Corporation_name", "MissionID":65397794, "Reward":455848 }
+{ "timestamp":"2017-01-02T15:12:57Z", "event":"MaterialDiscovered", "Category":"Manufactured", "Name":"gridresistors", "DiscoveryNumber":4 }
+{ "timestamp":"2017-01-02T15:12:57Z", "event":"MaterialCollected", "Category":"Manufactured", "Name":"gridresistors", "Count":1 }
+{ "timestamp":"2017-01-02T15:13:16Z", "event":"RepairAll", "Cost":4165 }
+{ "timestamp":"2017-01-02T15:16:54Z", "event":"ModuleBuy", "Slot":"Slot01_Size6", "SellItem":"$int_fuelscoop_size6_class3_name;", "SellItem_Localised":"Fuel Scoop", "SellPrice":1797726, "BuyItem":"$int_passengercabin_size6_class2_name;", "BuyItem_Localised":"BC Passenger Cabin", "BuyPrice":184232, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T15:17:04Z", "event":"ModuleBuy", "Slot":"Slot03_Size3", "SellItem":"$int_detailedsurfacescanner_tiny_name;", "SellItem_Localised":"Surface Scanner", "SellPrice":250000, "BuyItem":"$int_fuelscoop_size3_class5_name;", "BuyItem_Localised":"Fuel Scoop", "BuyPrice":902954, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T15:22:44Z", "event":"MissionAccepted", "Faction":"Aeternitas Industries", "Name":"Mission_PassengerVIP_Tourist_BOOM", "Commodity":"$ConsumerTechnology_Name;", "Commodity_Localised":"Consumer Technology", "Count":3, "DestinationSystem":"Mambojas", "DestinationStation":"Conrad Station", "Expiry":"2017-01-02T17:17:22Z", "PassengerCount":6, "PassengerVIPs":true, "PassengerWanted":false, "PassengerType":"Tourist", "MissionID":65419193 }
+{ "timestamp":"2017-01-02T15:22:48Z", "event":"BuyAmmo", "Cost":750 }
+{ "timestamp":"2017-01-02T15:22:49Z", "event":"RefuelAll", "Cost":53, "Amount":1.036677 }
+{ "timestamp":"2017-01-02T15:25:22Z", "event":"Undocked", "StationName":"Houtman City", "StationType":"Orbis" }
+{ "timestamp":"2017-01-02T15:26:25Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:27:05Z", "event":"FSDJump", "StarSystem":"Mambojas", "StarPos":[-8.875,-16.094,68.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":14.158, "FuelUsed":0.990736, "FuelLevel":39.009266, "SystemFaction":"New Mambojas Labour", "FactionState":"Retreat" }
+{ "timestamp":"2017-01-02T15:27:23Z", "event":"FuelScoop", "Scooped":0.006718, "Total":39.015984 }
+{ "timestamp":"2017-01-02T15:29:18Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Lapine;", "From_Localised":"Lapine", "Message":"$Pirate_StartInterdiction03;", "Message_Localised":"I have you now!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:29:25Z", "event":"Interdicted", "Submitted":true, "Interdictor":"Lapine", "IsPlayer":false, "Faction":"Yorua Free" }
+{ "timestamp":"2017-01-02T15:29:28Z", "event":"SupercruiseExit", "StarSystem":"Mambojas", "Body":"Mambojas 1+2", "BodyType":"Null" }
+{ "timestamp":"2017-01-02T15:29:31Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Lapine;", "From_Localised":"Lapine", "Message":"$Pirate_OnDeclarePiracyThreaten10;", "Message_Localised":"Any cargo you have is now mine - fact.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:29:48Z", "event":"SupercruiseEntry", "StarSystem":"Mambojas" }
+{ "timestamp":"2017-01-02T15:31:18Z", "event":"SupercruiseExit", "StarSystem":"Mambojas", "Body":"Conrad Station", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T15:31:40Z", "event":"DockingRequested", "StationName":"Conrad Station" }
+{ "timestamp":"2017-01-02T15:31:40Z", "event":"ReceiveText", "From":"Conrad Station", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:31:42Z", "event":"ReceiveText", "From":"Conrad Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:31:42Z", "event":"DockingGranted", "LandingPad":11, "StationName":"Conrad Station" }
+{ "timestamp":"2017-01-02T15:31:44Z", "event":"ReceiveText", "From":"Conrad Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:32:26Z", "event":"Docked", "StationName":"Conrad Station", "StationType":"Coriolis", "StarSystem":"Mambojas", "StationFaction":"New Mambojas Labour", "FactionState":"Retreat", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2017-01-02T15:33:28Z", "event":"MissionCompleted", "Faction":"Mambojas First", "Name":"Mission_PassengerVIP_Tourist_BOOM_name", "MissionID":65419193, "Commodity":"$ConsumerTechnology_Name;", "Commodity_Localised":"Consumer Technology", "Count":3, "DestinationSystem":"Mambojas", "DestinationStation":"Conrad Station", "Reward":92480, "CommodityReward":[ { "Name": "TelemetrySuite", "Count": 4 } ] }
+{ "timestamp":"2017-01-02T15:33:28Z", "event":"MaterialDiscovered", "Category":"Manufactured", "Name":"mechanicalequipment", "DiscoveryNumber":5 }
+{ "timestamp":"2017-01-02T15:33:28Z", "event":"MaterialCollected", "Category":"Manufactured", "Name":"mechanicalequipment", "Count":1 }
+{ "timestamp":"2017-01-02T15:34:16Z", "event":"Undocked", "StationName":"Conrad Station", "StationType":"Coriolis" }
+{ "timestamp":"2017-01-02T15:34:41Z", "event":"ReceiveText", "From":"Conrad Station", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:35:30Z", "event":"FSDJump", "StarSystem":"Aeternitas", "StarPos":[-1.500,-14.656,56.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":14.158, "FuelUsed":1.007109, "FuelLevel":38.008873, "SystemFaction":"Aeternitas Industries", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T15:36:45Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Houtman City", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T15:36:46Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:37:00Z", "event":"DockingRequested", "StationName":"Houtman City" }
+{ "timestamp":"2017-01-02T15:37:00Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:37:01Z", "event":"ReceiveText", "From":"Houtman City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:37:01Z", "event":"DockingGranted", "LandingPad":3, "StationName":"Houtman City" }
+{ "timestamp":"2017-01-02T15:37:51Z", "event":"Docked", "StationName":"Houtman City", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2017-01-02T15:38:29Z", "event":"RefuelAll", "Cost":110, "Amount":2.185064 }
+{ "timestamp":"2017-01-02T15:39:41Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":7000 }
+{ "timestamp":"2017-01-02T15:46:43Z", "event":"Undocked", "StationName":"Houtman City", "StationType":"Orbis" }
+{ "timestamp":"2017-01-02T15:47:20Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2017-01-02T15:49:21Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Filter Station", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T15:49:22Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:49:31Z", "event":"DockingRequested", "StationName":"Filter Station" }
+{ "timestamp":"2017-01-02T15:49:31Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:49:32Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T15:49:32Z", "event":"DockingGranted", "LandingPad":45, "StationName":"Filter Station" }
+{ "timestamp":"2017-01-02T15:50:44Z", "event":"Docked", "StationName":"Filter Station", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Agri;", "StationEconomy_Localised":"Agriculture" }
+{ "timestamp":"2017-01-02T15:51:34Z", "event":"MissionAccepted", "Faction":"Aeternitas Industries", "Name":"Mission_Sightseeing_CEO_BOOM", "Commodity":"$Landmines_Name;", "Commodity_Localised":"Landmines", "Count":2, "Expiry":"2017-01-03T07:12:01Z", "PassengerCount":5, "PassengerVIPs":true, "PassengerWanted":false, "PassengerType":"Business", "MissionID":65430414 }
+{ "timestamp":"2017-01-02T15:52:18Z", "event":"RefuelAll", "Cost":10, "Amount":0.075094 }
+{ "timestamp":"2017-01-02T15:53:34Z", "event":"ModuleSell", "Slot":"MediumHardpoint1", "SellItem":"$hpt_dumbfiremissilerack_fixed_medium_name;", "SellItem_Localised":"Missile Rack", "SellPrice":240400, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T15:53:42Z", "event":"ModuleSell", "Slot":"MediumHardpoint2", "SellItem":"$hpt_dumbfiremissilerack_fixed_medium_name;", "SellItem_Localised":"Missile Rack", "SellPrice":240400, "Ship":"asp", "ShipID":2 }
+{ "timestamp":"2017-01-02T15:57:30Z", "event":"Undocked", "StationName":"Filter Station", "StationType":"Orbis" }
+{ "timestamp":"2017-01-02T15:59:03Z", "event":"FSDJump", "StarSystem":"Alrai Sector RI-T b3-1", "StarPos":[-7.219,-11.906,82.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":26.338, "FuelUsed":4.435147, "FuelLevel":35.564854 }
+{ "timestamp":"2017-01-02T15:59:30Z", "event":"FuelScoop", "Scooped":0.858402, "Total":36.423256 }
+{ "timestamp":"2017-01-02T16:00:01Z", "event":"FSDJump", "StarSystem":"CD-22 12617", "StarPos":[-16.469,-3.406,105.625], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":26.372, "FuelUsed":4.361465, "FuelLevel":32.061790, "SystemFaction":"Revolutionary Party of CD-22 12617" }
+{ "timestamp":"2017-01-02T16:00:48Z", "event":"FuelScoop", "Scooped":3.423935, "Total":35.485725 }
+{ "timestamp":"2017-01-02T16:01:26Z", "event":"FSDJump", "StarSystem":"Scorpii Sector GH-V b2-1", "StarPos":[-20.875,0.438,130.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":25.370, "FuelUsed":3.946374, "FuelLevel":31.539349 }
+{ "timestamp":"2017-01-02T16:01:54Z", "event":"FuelScoop", "Scooped":1.079861, "Total":32.619209 }
+{ "timestamp":"2017-01-02T16:02:26Z", "event":"FSDJump", "StarSystem":"Cofan", "StarPos":[-33.719,19.344,144.156], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Tourism;", "SystemEconomy_Localised":"Tourism", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":26.722, "FuelUsed":4.410380, "FuelLevel":28.208828, "SystemFaction":"The Rockforth Corporation" }
+{ "timestamp":"2017-01-02T16:04:22Z", "event":"FuelScoop", "Scooped":8.637951, "Total":36.846779 }
+{ "timestamp":"2017-01-02T16:07:33Z", "event":"ApproachSettlement", "Name":"Cofan 5 b Ice Geyser" }
+{ "timestamp":"2017-01-02T16:07:34Z", "event":"SupercruiseExit", "StarSystem":"Cofan", "Body":"Cofan 5 b", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T16:09:13Z", "event":"DataScanned", "Type":"TouristBeacon" }
+{ "timestamp":"2017-01-02T16:10:02Z", "event":"SupercruiseEntry", "StarSystem":"Cofan" }
+{ "timestamp":"2017-01-02T16:10:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Belkor;", "From_Localised":"Belkor", "Message":"$Pirate_HunterHostileSC_Relevant05;", "Message_Localised":"The rumour was right... good job I found you first.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:11:38Z", "event":"FSDJump", "StarSystem":"Scorpii Sector GH-V b2-1", "StarPos":[-20.875,0.438,130.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":26.722, "FuelUsed":4.515736, "FuelLevel":32.331043 }
+{ "timestamp":"2017-01-02T16:12:41Z", "event":"FuelScoop", "Scooped":5.755024, "Total":38.086067 }
+{ "timestamp":"2017-01-02T16:13:10Z", "event":"FSDJump", "StarSystem":"Alrai Sector ZU-P b5-0", "StarPos":[-20.219,-22.844,115.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":27.602, "FuelUsed":4.922025, "FuelLevel":33.164043 }
+{ "timestamp":"2017-01-02T16:13:38Z", "event":"FuelScoop", "Scooped":1.265568, "Total":34.429611 }
+{ "timestamp":"2017-01-02T16:14:09Z", "event":"FSDJump", "StarSystem":"LTT 7701", "StarPos":[-15.438,-41.500,102.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Extraction;", "SystemEconomy_Localised":"Extraction", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":23.028, "FuelUsed":3.094617, "FuelLevel":31.334993, "SystemFaction":"LTT 7701 Systems", "FactionState":"Retreat" }
+{ "timestamp":"2017-01-02T16:14:19Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Lloyd Mason;", "From_Localised":"Lloyd Mason", "Message":"$Pirate_HunterHostileSC_Relevant02;", "Message_Localised":"I knew I'd find you eventually, all that tasty cargo!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:14:44Z", "event":"FuelScoop", "Scooped":1.974215, "Total":33.309208 }
+{ "timestamp":"2017-01-02T16:15:10Z", "event":"FSDJump", "StarSystem":"Col 285 Sector GI-P b20-5", "StarPos":[-13.031,-58.000,84.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":24.906, "FuelUsed":3.726166, "FuelLevel":29.583042 }
+{ "timestamp":"2017-01-02T16:16:02Z", "event":"FuelScoop", "Scooped":4.168701, "Total":33.751743 }
+{ "timestamp":"2017-01-02T16:16:38Z", "event":"FSDJump", "StarSystem":"Banda", "StarPos":[-10.500,-75.625,69.500], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Dictatorship;", "SystemGovernment_Localised":"Dictatorship", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":23.202, "FuelUsed":3.140020, "FuelLevel":30.611723, "SystemFaction":"Dominion of Banda", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T16:17:07Z", "event":"FuelScoop", "Scooped":1.186804, "Total":31.798527 }
+{ "timestamp":"2017-01-02T16:17:38Z", "event":"FSDJump", "StarSystem":"Durius", "StarPos":[-5.375,-86.313,52.750], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Military;", "SystemEconomy_Localised":"Military", "SystemGovernment":"$government_Feudal;", "SystemGovernment_Localised":"Feudal", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":20.520, "FuelUsed":2.298565, "FuelLevel":29.499962, "SystemFaction":"Durius Dominion" }
+{ "timestamp":"2017-01-02T16:17:58Z", "event":"FuelScoop", "Scooped":0.017523, "Total":29.517485 }
+{ "timestamp":"2017-01-02T16:33:27Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jake Lucas;", "From_Localised":"Jake Lucas", "Message":"$Pirate_StartInterdiction03;", "Message_Localised":"I have you now!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:33:28Z", "event":"SupercruiseExit", "StarSystem":"Durius", "Body":"Durius C 4", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T16:33:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jake Lucas;", "From_Localised":"Jake Lucas", "Message":"$Pirate_Arrival01;", "Message_Localised":"Fear me!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:33:48Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jake Lucas;", "From_Localised":"Jake Lucas", "Message":"$Pirate_OnDeclarePiracyAttack08;", "Message_Localised":"Die!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:34:05Z", "event":"SupercruiseEntry", "StarSystem":"Durius" }
+{ "timestamp":"2017-01-02T16:34:22Z", "event":"SupercruiseExit", "StarSystem":"Durius", "Body":"Durius C 4", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T16:34:34Z", "event":"DataScanned", "Type":"TouristBeacon" }
+{ "timestamp":"2017-01-02T16:35:01Z", "event":"SupercruiseEntry", "StarSystem":"Durius" }
+{ "timestamp":"2017-01-02T16:35:01Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kugai Atomsk;", "From_Localised":"Kugai Atomsk", "Message":"$Pirate_OnDeclarePiracyThreaten08;", "Message_Localised":"Release any cargo and I may let you live.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:35:49Z", "event":"FSDJump", "StarSystem":"LTT 8701", "StarPos":[-1.656,-59.875,48.844], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":26.982, "FuelUsed":4.422922, "FuelLevel":24.464565, "SystemFaction":"Crimson Transport Corporation" }
+{ "timestamp":"2017-01-02T16:36:19Z", "event":"FuelScoop", "Scooped":1.163433, "Total":25.627998 }
+{ "timestamp":"2017-01-02T16:37:00Z", "event":"FSDJump", "StarSystem":"Nona", "StarPos":[5.281,-33.281,47.750], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":27.506, "FuelUsed":4.551251, "FuelLevel":21.076748, "SystemFaction":"Nona for Equality", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T16:37:35Z", "event":"FuelScoop", "Scooped":1.459723, "Total":22.536470 }
+{ "timestamp":"2017-01-02T16:38:06Z", "event":"FSDJump", "StarSystem":"Aeternitas", "StarPos":[-1.500,-14.656,56.875], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":21.821, "FuelUsed":2.535650, "FuelLevel":20.000820, "SystemFaction":"Aeternitas Industries", "FactionState":"Boom" }
+{ "timestamp":"2017-01-02T16:39:20Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Filter Station", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T16:39:21Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:39:30Z", "event":"DockingRequested", "StationName":"Filter Station" }
+{ "timestamp":"2017-01-02T16:39:30Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$DockingChatter_Friendly;", "Message_Localised":"It's great to see you again, Commander.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:39:32Z", "event":"ReceiveText", "From":"Filter Station", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:39:32Z", "event":"DockingGranted", "LandingPad":41, "StationName":"Filter Station" }
+{ "timestamp":"2017-01-02T16:40:22Z", "event":"Docked", "StationName":"Filter Station", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Agri;", "StationEconomy_Localised":"Agriculture" }
+{ "timestamp":"2017-01-02T16:40:37Z", "event":"RefuelAll", "Cost":1015, "Amount":20.292648 }
+{ "timestamp":"2017-01-02T16:41:18Z", "event":"MissionCompleted", "Faction":"Aeternitas Industries", "Name":"Mission_Sightseeing_CEO_BOOM_name", "MissionID":65430414, "Commodity":"$Landmines_Name;", "Commodity_Localised":"Landmines", "Count":2, "Reward":1994095, "CommodityReward":[ { "Name": "ModularTerminals", "Count": 4 } ] }
+{ "timestamp":"2017-01-02T16:41:53Z", "event":"RepairAll", "Cost":970 }
+{ "timestamp":"2017-01-02T16:41:54Z", "event":"BuyAmmo", "Cost":50 }
+{ "timestamp":"2017-01-02T16:53:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Capper Deluxe;", "From_Localised":"Capper Deluxe", "Message":"$Commuter_AuthorityScan07;", "Message_Localised":"There's no need to scan me, officer. I have nothing to find.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T16:55:16Z", "event":"ShipyardBuy", "ShipType":"vulture", "ShipPrice":4925615, "StoreOldShip":"Asp", "StoreShipID":2 }
+{ "timestamp":"2017-01-02T16:55:17Z", "event":"ShipyardNew", "ShipType":"vulture", "NewShipID":5 }
+{ "timestamp":"2017-01-02T16:55:28Z", "event":"Docked", "StationName":"Filter Station", "StationType":"Orbis", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Agri;", "StationEconomy_Localised":"Agriculture" }
+{ "timestamp":"2017-01-02T16:56:45Z", "event":"ModuleBuy", "Slot":"MainEngines", "SellItem":"$int_engine_size5_class1_name;", "SellItem_Localised":"Thrusters", "SellPrice":63012, "BuyItem":"$int_engine_size5_class5_name;", "BuyItem_Localised":"Thrusters", "BuyPrice":5103953, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T16:56:46Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T16:57:41Z", "event":"FetchRemoteModule", "StorageSlot":52, "StoredItem":"$int_powerplant_size4_class2_name;", "StoredItem_Localised":"Power Plant", "ServerId":128064044, "TransferCost":100, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T16:58:52Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Laverne Popenhagen;", "From_Localised":"Laverne Popenhagen", "Message":"$Commuter_AuthorityScan06;", "Message_Localised":"What's going on here, officer?", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:00:34Z", "event":"ModuleBuy", "Slot":"LargeHardpoint1", "SellItem":"$hpt_pulselaser_fixed_small_name;", "SellItem_Localised":"Pulse Laser", "SellPrice":2200, "BuyItem":"$hpt_beamlaser_fixed_large_name;", "BuyItem_Localised":"Beam Laser", "BuyPrice":1177600, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:01:27Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ragugo of Mermaid;", "From_Localised":"Ragugo of Mermaid", "Message":"$Commuter_AuthorityScan03;", "Message_Localised":"Will this take long? I’ve got a schedule to keep. ", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:01:29Z", "event":"ModuleBuy", "Slot":"LargeHardpoint1", "SellItem":"$hpt_beamlaser_fixed_large_name;", "SellItem_Localised":"Beam Laser", "SellPrice":1177600, "BuyItem":"$hpt_beamlaser_gimbal_large_name;", "BuyItem_Localised":"Beam Laser", "BuyPrice":2396160, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:01:49Z", "event":"ModuleBuy", "Slot":"LargeHardpoint2", "SellItem":"$hpt_pulselaser_fixed_small_name;", "SellItem_Localised":"Pulse Laser", "SellPrice":2200, "BuyItem":"$hpt_multicannon_gimbal_large_name;", "BuyItem_Localised":"Multi-Cannon", "BuyPrice":578436, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:02:25Z", "event":"ModuleBuy", "Slot":"Slot02_Size4", "SellItem":"$int_cargorack_size3_class1_name;", "SellItem_Localised":"Cargo Rack", "SellPrice":10563, "BuyItem":"$int_cargorack_size4_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":34328, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:02:42Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:03:32Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:04:10Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:04:28Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:04:52Z", "event":"ModuleRetrieve", "Slot":"PowerPlant", "RetrievedItem":"$int_powerplant_size4_class2_name;", "RetrievedItem_Localised":"Power Plant", "Ship":"vulture", "ShipID":5, "EngineerModifications":"PowerPlant_Boosted", "SwapOutItem":"$int_powerplant_size4_class1_name;", "SwapOutItem_Localised":"Power Plant", "Cost":0 }
+{ "timestamp":"2017-01-02T17:05:00Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:05:33Z", "event":"Undocked", "StationName":"Filter Station", "StationType":"Orbis" }
+{ "timestamp":"2017-01-02T17:06:25Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2017-01-02T17:11:40Z", "event":"ApproachSettlement", "Name":"Mitchell Arsenal" }
+{ "timestamp":"2017-01-02T17:11:47Z", "event":"SupercruiseExit", "StarSystem":"Aeternitas", "Body":"Aeternitas 7 g", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T17:12:06Z", "event":"DockingRequested", "StationName":"Mitchell Arsenal" }
+{ "timestamp":"2017-01-02T17:12:06Z", "event":"ReceiveText", "From":"Mitchell Arsenal", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:12:07Z", "event":"ReceiveText", "From":"Mitchell Arsenal", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:12:07Z", "event":"DockingGranted", "LandingPad":2, "StationName":"Mitchell Arsenal" }
+{ "timestamp":"2017-01-02T17:12:11Z", "event":"ReceiveText", "From":"Mitchell Arsenal", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:12:22Z", "event":"ReceiveText", "From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_StartPatrol03;", "Message_Localised":"Receiving five by five, I'm in the air now, joining patrol.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:13:03Z", "event":"Docked", "StationName":"Mitchell Arsenal", "StarSystem":"Aeternitas", "StationFaction":"Aeternitas Industries", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation" }
+{ "timestamp":"2017-01-02T17:13:49Z", "event":"ModuleBuy", "Slot":"PowerDistributor", "SellItem":"$int_powerdistributor_size5_class1_name;", "SellItem_Localised":"Power Distributor", "SellPrice":31778, "BuyItem":"$int_powerdistributor_size5_class5_name;", "BuyItem_Localised":"Power Distributor", "BuyPrice":1241317, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:13:50Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:14:19Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:15:31Z", "event":"Undocked", "StationName":"Mitchell Arsenal" }
+{ "timestamp":"2017-01-02T17:15:38Z", "event":"ReceiveText", "From":"$ShipName_Police_Independent;", "From_Localised":"System Authority Vessel", "Message":"$Police_StartPatrol04;", "Message_Localised":"I'm away, heading to patrol route alpha now.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:16:03Z", "event":"ReceiveText", "From":"Mitchell Arsenal", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:16:15Z", "event":"SupercruiseEntry", "StarSystem":"Aeternitas" }
+{ "timestamp":"2017-01-02T17:18:04Z", "event":"FSDJump", "StarSystem":"Ho Hsi", "StarPos":[-0.438,-11.469,61.281], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Dictatorship;", "SystemGovernment_Localised":"Dictatorship", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":5.541, "FuelUsed":0.961805, "FuelLevel":7.038195, "SystemFaction":"United Ho Hsi Regulatory State" }
+{ "timestamp":"2017-01-02T17:19:45Z", "event":"SupercruiseExit", "StarSystem":"Ho Hsi", "Body":"Hand Ring", "BodyType":"Station" }
+{ "timestamp":"2017-01-02T17:20:15Z", "event":"ReceiveText", "From":"Hand Ring", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:20:21Z", "event":"DockingRequested", "StationName":"Hand Ring" }
+{ "timestamp":"2017-01-02T17:20:21Z", "event":"ReceiveText", "From":"Hand Ring", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:20:22Z", "event":"ReceiveText", "From":"Hand Ring", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:20:22Z", "event":"DockingGranted", "LandingPad":13, "StationName":"Hand Ring" }
+{ "timestamp":"2017-01-02T17:21:00Z", "event":"Docked", "StationName":"Hand Ring", "StationType":"Coriolis", "StarSystem":"Ho Hsi", "StationFaction":"United Ho Hsi Regulatory State", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2017-01-02T17:21:21Z", "event":"RefuelAll", "Cost":62, "Amount":1.220469 }
+{ "timestamp":"2017-01-02T17:21:39Z", "event":"ModuleBuy", "Slot":"PowerPlant", "SellItem":"$int_powerplant_size4_class2_name;", "SellItem_Localised":"Power Plant", "SellPrice":50689, "BuyItem":"$int_powerplant_size4_class5_name;", "BuyItem_Localised":"Power Plant", "BuyPrice":1610080, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:21:40Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:21:47Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:21:51Z", "event":"ModuleBuy", "Slot":"FrameShiftDrive", "SellItem":"$int_hyperdrive_size4_class1_name;", "SellItem_Localised":"FSD", "SellPrice":19878, "BuyItem":"$int_hyperdrive_size4_class5_name;", "BuyItem_Localised":"FSD", "BuyPrice":1610080, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:21:57Z", "event":"ModuleBuy", "Slot":"LifeSupport", "SellItem":"$int_lifesupport_size3_class1_name;", "SellItem_Localised":"Life Support", "SellPrice":4053, "BuyItem":"$int_lifesupport_size3_class2_name;", "BuyItem_Localised":"Life Support", "BuyPrice":10133, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:22:05Z", "event":"ModuleBuy", "Slot":"Radar", "SellItem":"$int_sensors_size4_class1_name;", "SellItem_Localised":"Sensors", "SellPrice":11349, "BuyItem":"$int_sensors_size4_class2_name;", "BuyItem_Localised":"Sensors", "BuyPrice":28373, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:22:21Z", "event":"ModuleBuy", "Slot":"Slot01_Size5", "SellItem":"$int_shieldgenerator_size5_class1_name;", "SellItem_Localised":"Shield Generator", "SellPrice":63012, "BuyItem":"$int_shieldgenerator_size5_class4_name;", "BuyItem_Localised":"Shield Generator", "BuyPrice":1701318, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:22:34Z", "event":"ModuleBuy", "Slot":"Slot03_Size2", "SellItem":"$int_stellarbodydiscoveryscanner_standard_name;", "SellItem_Localised":"D - Scanner", "SellPrice":1000, "BuyItem":"$int_stellarbodydiscoveryscanner_advanced_name;", "BuyItem_Localised":"D - Scanner", "BuyPrice":1545000, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:24:39Z", "event":"ModuleBuy", "Slot":"Slot03_Size2", "SellItem":"$int_stellarbodydiscoveryscanner_advanced_name;", "SellItem_Localised":"D - Scanner", "SellPrice":1545000, "BuyItem":"$int_fsdinterdictor_size2_class4_name;", "BuyItem_Localised":"FSD Interdictor", "BuyPrice":907200, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:24:56Z", "event":"ModuleBuy", "Slot":"Slot05_Size1", "BuyItem":"$int_stellarbodydiscoveryscanner_advanced_name;", "BuyItem_Localised":"D - Scanner", "BuyPrice":1545000, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:25:25Z", "event":"ModuleBuy", "Slot":"TinyHardpoint1", "BuyItem":"$hpt_chafflauncher_tiny_name;", "BuyItem_Localised":"Chaff", "BuyPrice":8500, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:25:32Z", "event":"ModuleBuy", "Slot":"TinyHardpoint2", "BuyItem":"$hpt_shieldbooster_size0_class5_name;", "BuyItem_Localised":"Shield Booster", "BuyPrice":281000, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:25:32Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:25:42Z", "event":"ModuleBuy", "Slot":"TinyHardpoint3", "BuyItem":"$hpt_electroniccountermeasure_tiny_name;", "BuyItem_Localised":"ECM", "BuyPrice":12500, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:26:00Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2017-01-02T17:27:02Z", "event":"ModuleBuy", "Slot":"LargeHardpoint1", "SellItem":"$hpt_beamlaser_gimbal_large_name;", "SellItem_Localised":"Beam Laser", "SellPrice":2396160, "BuyItem":"$hpt_pulselaser_gimbal_large_name;", "BuyItem_Localised":"Pulse Laser", "BuyPrice":140600, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:31:07Z", "event":"ModuleSell", "Slot":"Slot03_Size2", "SellItem":"$int_fsdinterdictor_size2_class4_name;", "SellItem_Localised":"FSD Interdictor", "SellPrice":907200, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:31:24Z", "event":"ModuleBuy", "Slot":"TinyHardpoint4", "BuyItem":"$hpt_cloudscanner_size0_class3_name;", "BuyItem_Localised":"Wake Scanner", "BuyPrice":121899, "Ship":"vulture", "ShipID":5 }
+{ "timestamp":"2017-01-02T17:32:48Z", "event":"Undocked", "StationName":"Hand Ring", "StationType":"Coriolis" }
+{ "timestamp":"2017-01-02T17:33:16Z", "event":"ReceiveText", "From":"Hand Ring", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:34:11Z", "event":"FSDJump", "StarSystem":"VESPER-M4", "StarPos":[-3.688,-22.531,57.000], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Anarchy;", "SystemGovernment_Localised":"Anarchy", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "JumpDist":12.299, "FuelUsed":1.664035, "FuelLevel":6.335965, "SystemFaction":"Hammers of Slough" }
+{ "timestamp":"2017-01-02T17:36:07Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldcyclerecordings", "Count":3 }
+{ "timestamp":"2017-01-02T17:38:21Z", "event":"USSDrop", "USSType":"$USS_Type_Salvage;", "USSType_Localised":"Degraded emissions detected", "USSThreat":0 }
+{ "timestamp":"2017-01-02T17:38:22Z", "event":"SupercruiseExit", "StarSystem":"VESPER-M4", "Body":"Slough", "BodyType":"Planet" }
+{ "timestamp":"2017-01-02T17:38:36Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"legacyfirmware", "Count":3 }
+{ "timestamp":"2017-01-02T17:38:53Z", "event":"SupercruiseEntry", "StarSystem":"VESPER-M4" }
+{ "timestamp":"2017-01-02T17:40:59Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"scanarchives", "Count":3 }
+{ "timestamp":"2017-01-02T17:43:14Z", "event":"SupercruiseExit", "StarSystem":"VESPER-M4", "Body":"VESPER-M4", "BodyType":"Star" }
+{ "timestamp":"2017-01-02T17:43:39Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Varik Tenek;", "From_Localised":"Varik Tenek", "Message":"$Pirate_OnStartScanCargo06;", "Message_Localised":"Let's see what you are carrying.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:43:50Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Varik Tenek;", "From_Localised":"Varik Tenek", "Message":"$Pirate_LargeCargoIgnoreThreat04;", "Message_Localised":"Your cargo is worth a small fortune to me, give it to me. Now.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:00Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Shawn Giese;", "From_Localised":"Shawn Giese", "Message":"$Escort_AttackDutyStart07;", "Message_Localised":"Tracking targets.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Arcweld;", "From_Localised":"Arcweld", "Message":"$Smuggler_NearDeath03;", "Message_Localised":"You almost had me there!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:05Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Per E Walle;", "From_Localised":"Per E Walle", "Message":"$Pirate_OnStartScanCargo11;", "Message_Localised":"I hope you have something good in your hold.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:11Z", "event":"Bounty", "TotalReward":0, "VictimFaction":"Nationals of VESPER-M4" }
+{ "timestamp":"2017-01-02T17:44:15Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Per E Walle;", "From_Localised":"Per E Walle", "Message":"$Pirate_LargeCargoIgnoreThreat07;", "Message_Localised":"The bigger they are, the bigger the haul.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Per E Walle;", "From_Localised":"Per E Walle", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jake Xander;", "From_Localised":"Jake Xander", "Message":"$Escort_AttackDutyStart01;", "Message_Localised":"Commencing engagement, cover formation.", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:25Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Hekanaho;", "From_Localised":"Hekanaho", "Message":"$Escort_AttackDutyStart06;", "Message_Localised":"I live for this!", "Channel":"npc" }
+{ "timestamp":"2017-01-02T17:44:31Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2017-01-02T17:44:35Z", "event":"HullDamage", "Health":0.798853 }
+{ "timestamp":"2017-01-02T17:44:45Z", "event":"HullDamage", "Health":0.505368 }
+{ "timestamp":"2017-01-02T17:44:51Z", "event":"HullDamage", "Health":0.319847 }
+{ "timestamp":"2017-01-02T17:44:51Z", "event":"HullDamage", "Health":0.160329 }
+{ "timestamp":"2017-01-02T17:44:52Z", "event":"Died", "KillerName":"Charney Sundown", "KillerShip":"asp_scout", "KillerRank":"Expert" }
+{ "timestamp":"2017-01-02T17:45:11Z", "event":"Resurrect", "Option":"rebuy", "Cost":936211, "Bankrupt":false }
+{ "timestamp":"2017-01-02T17:45:29Z", "event":"Location", "Docked":true, "StationName":"Hand Ring", "StationType":"Coriolis", "StarSystem":"Ho Hsi", "StarPos":[-0.438,-11.469,61.281], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Dictatorship;", "SystemGovernment_Localised":"Dictatorship", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Hand Ring", "BodyType":"Station", "SystemFaction":"United Ho Hsi Regulatory State" }
+{ "timestamp":"2017-01-02T17:45:30Z", "event":"Docked", "StationName":"Hand Ring", "StationType":"Coriolis", "StarSystem":"Ho Hsi", "StationFaction":"United Ho Hsi Regulatory State", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }

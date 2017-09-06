@@ -1,0 +1,23 @@
+{ "timestamp":"2016-10-04T20:33:26Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2 (Beta 4)", "build":"r122528/r0 " }
+{ "timestamp":"2016-10-04T20:34:13Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Asp", "ShipID":12, "GameMode":"Solo", "Credits":80855940, "Loan":0 }
+{ "timestamp":"2016-10-04T20:34:13Z", "event":"Rank", "Combat":4, "Trade":5, "Explore":4, "Empire":2, "Federation":6, "CQC":0 }
+{ "timestamp":"2016-10-04T20:34:13Z", "event":"Progress", "Combat":8, "Trade":84, "Explore":14, "Empire":14, "Federation":95, "CQC":0 }
+{ "timestamp":"2016-10-04T20:34:51Z", "event":"Location", "Docked":true, "StationName":"Farseer Inc", "StationType":"", "StarSystem":"Deciat", "StarPos":[122.625,-0.813,-47.281], "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_high;", "Security_Localised":"High Security", "Body":"Deciat 6 a", "Faction":"Independent Deciat Green Party" }
+{ "timestamp":"2016-10-04T20:34:51Z", "event":"Docked", "StationName":"Farseer Inc", "StarSystem":"Deciat", "Faction":"Independent Deciat Green Party", "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_high;", "Security_Localised":"High Security" }
+{ "timestamp":"2016-10-04T20:36:19Z", "event":"MarketBuy", "Type":"fish", "Count":10, "BuyPrice":221, "TotalCost":2210 }
+{ "timestamp":"2016-10-04T20:36:40Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:37:07Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:37:37Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5 }
+{ "timestamp":"2016-10-04T20:38:06Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:38:26Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:38:48Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5 }
+{ "timestamp":"2016-10-04T20:39:59Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:40:20Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:40:42Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5 }
+{ "timestamp":"2016-10-04T20:41:05Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:41:25Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-10-04T20:41:48Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5 }
+{ "timestamp":"2016-10-04T20:43:18Z", "event":"Undocked", "StationName":"Farseer Inc" }
+{ "timestamp":"2016-10-04T20:44:54Z", "event":"HeatWarning" }
+{ "timestamp":"2016-10-04T20:44:58Z", "event":"SupercruiseEntry", "StarSystem":"Deciat" }
+{ "timestamp":"2016-10-04T20:45:27Z", "event":"SupercruiseExit", "StarSystem":"Deciat", "Body":"Deciat 6 a" }

@@ -1,0 +1,54 @@
+{ "timestamp":"2016-09-30T15:42:41Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2 (Beta 4)", "build":"r122528/r0 " }
+{ "timestamp":"2016-09-30T15:44:26Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Asp", "ShipID":12, "GameMode":"Solo", "Credits":81037065, "Loan":0 }
+{ "timestamp":"2016-09-30T15:44:26Z", "event":"Rank", "Combat":4, "Trade":5, "Explore":4, "Empire":2, "Federation":6, "CQC":0 }
+{ "timestamp":"2016-09-30T15:44:26Z", "event":"Progress", "Combat":8, "Trade":84, "Explore":14, "Empire":14, "Federation":95, "CQC":0 }
+{ "timestamp":"2016-09-30T15:45:01Z", "event":"Location", "Docked":false, "StarSystem":"Deciat", "StarPos":[122.625,-0.813,-47.281], "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_medium;", "Security_Localised":"Medium Security", "Body":"Deciat 6 a", "Faction":"Independent Deciat Green Party" }
+{ "timestamp":"2016-09-30T15:52:05Z", "event":"DockingRequested", "StationName":"Farseer Inc" }
+{ "timestamp":"2016-09-30T15:52:06Z", "event":"DockingGranted", "LandingPad":2, "StationName":"Farseer Inc" }
+{ "timestamp":"2016-09-30T15:53:38Z", "event":"Docked", "StationName":"Farseer Inc", "StarSystem":"Deciat", "Faction":"Independent Deciat Green Party", "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_medium;", "Security_Localised":"Medium Security" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Didi Vatermann", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Bill Turner", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Broo Tarquin", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"The Sarge", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Zacariah Nemo", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Hera Tani", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Ram Tah", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Lei Cheung", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Colonel Bris Dekker", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Marco Qwent", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Selene Jean", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Professor Palin", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Lori Jameson", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Juri Ishmaak", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:05Z", "event":"EngineerProgress", "Engineer":"Tiana Fortune", "Progress":"Invited" }
+{ "timestamp":"2016-09-30T15:54:26Z", "event":"MarketBuy", "Type":"fish", "Count":9, "BuyPrice":221, "TotalCost":1989 }
+{ "timestamp":"2016-09-30T15:55:12Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_FastBoot", "Level":3, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-09-30T15:55:47Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":3, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-09-30T15:55:49Z", "event":"EngineerProgress", "Engineer":"Felicity Farseer", "Rank":4 }
+{ "timestamp":"2016-09-30T15:56:13Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":3 }
+{ "timestamp":"2016-09-30T15:56:45Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":4, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-09-30T15:56:46Z", "event":"EngineerProgress", "Engineer":"Felicity Farseer", "Rank":5 }
+{ "timestamp":"2016-09-30T15:57:05Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":4 }
+{ "timestamp":"2016-09-30T15:57:19Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-09-30T15:59:47Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"FSD_LongRange", "Level":5 }
+{ "timestamp":"2016-09-30T16:00:29Z", "event":"EngineerCraft", "Engineer":"Felicity Farseer", "Blueprint":"Engine_Tuned", "Level":3, "Ingredients":{"fish":1 } }
+{ "timestamp":"2016-09-30T16:00:52Z", "event":"EngineerApply", "Engineer":"Felicity Farseer", "Blueprint":"Engine_Tuned", "Level":3 }
+{ "timestamp":"2016-09-30T16:16:50Z", "event":"RefuelAll", "Cost":709, "Amount":14.147621 }
+{ "timestamp":"2016-09-30T16:22:52Z", "event":"RepairAll", "Cost":342 }
+{ "timestamp":"2016-09-30T16:24:47Z", "event":"Undocked", "StationName":"Farseer Inc" }
+{ "timestamp":"2016-09-30T16:26:15Z", "event":"SupercruiseEntry", "StarSystem":"Deciat" }
+{ "timestamp":"2016-09-30T16:28:14Z", "event":"FSDJump", "StarSystem":"Col 285 Sector HB-C b14-6", "StarPos":[123.188,-22.188,-63.063], "Allegiance":"", "Economy":"$economy_None;", "Economy_Localised":"None", "Government":"$government_None;", "Government_Localised":"None", "Security":"$SYSTEM_SECURITY_low;", "Security_Localised":"Low Security", "JumpDist":26.575, "FuelUsed":2.091740, "FuelLevel":29.908260 }
+{ "timestamp":"2016-09-30T16:28:39Z", "event":"FuelScoop", "Scooped":1.729116, "Total":31.637377 }
+{ "timestamp":"2016-09-30T16:29:48Z", "event":"FSDJump", "StarSystem":"Hyades Sector WU-T a18-0", "StarPos":[123.719,-44.188,-84.438], "Allegiance":"", "Economy":"$economy_None;", "Economy_Localised":"None", "Government":"$government_None;", "Government_Localised":"None", "Security":"$SYSTEM_SECURITY_low;", "Security_Localised":"Low Security", "JumpDist":30.679, "FuelUsed":2.967818, "FuelLevel":28.669559 }
+{ "timestamp":"2016-09-30T16:30:58Z", "event":"FSDJump", "StarSystem":"Meene", "StarPos":[118.781,-56.438,-97.188], "Allegiance":"Independent", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Anarchy;", "Government_Localised":"Anarchy", "Security":"$GAlAXY_MAP_INFO_state_anarchy;", "Security_Localised":"Anarchy", "JumpDist":18.358, "FuelUsed":0.830571, "FuelLevel":27.838987, "Faction":"Meene Purple Drug Empire" }
+{ "timestamp":"2016-09-30T16:33:23Z", "event":"Interdicted", "Submitted":true, "Interdictor":"Edwin", "IsPlayer":false, "Faction":"Meene Purple Drug Empire" }
+{ "timestamp":"2016-09-30T16:33:24Z", "event":"SupercruiseExit", "StarSystem":"Meene", "Body":"Meene AB 5" }
+{ "timestamp":"2016-09-30T16:35:18Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-09-30T16:36:03Z", "event":"HullDamage", "Health":0.719141 }
+{ "timestamp":"2016-09-30T16:36:25Z", "event":"HullDamage", "Health":0.563291 }
+{ "timestamp":"2016-09-30T16:36:33Z", "event":"HullDamage", "Health":0.397771 }
+{ "timestamp":"2016-09-30T16:37:01Z", "event":"HullDamage", "Health":0.175123 }
+{ "timestamp":"2016-09-30T16:37:30Z", "event":"Died", "KillerName":"Edwin", "KillerShip":"viper", "KillerRank":"Competent" }
+{ "timestamp":"2016-09-30T16:37:51Z", "event":"Resurrect", "Option":"rebuy", "Cost":177789, "Bankrupt":false }
+{ "timestamp":"2016-09-30T16:38:17Z", "event":"Location", "Docked":true, "StationName":"Farseer Inc", "StationType":"", "StarSystem":"Deciat", "StarPos":[122.625,-0.813,-47.281], "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_medium;", "Security_Localised":"Medium Security", "Body":"Deciat 6 a", "Faction":"Independent Deciat Green Party" }
+{ "timestamp":"2016-09-30T16:38:17Z", "event":"Docked", "StationName":"Farseer Inc", "StarSystem":"Deciat", "Faction":"Independent Deciat Green Party", "Allegiance":"Federation", "Economy":"$economy_Industrial;", "Economy_Localised":"Industrial", "Government":"$government_Democracy;", "Government_Localised":"Democracy", "Security":"$SYSTEM_SECURITY_medium;", "Security_Localised":"Medium Security" }

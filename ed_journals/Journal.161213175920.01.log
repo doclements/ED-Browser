@@ -1,0 +1,18 @@
+{ "timestamp":"2016-12-13T17:59:20Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2 (Beta 2)", "build":"r130209/r0 " }
+{ "timestamp":"2016-12-13T18:00:16Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Python", "ShipID":0, "GameMode":"Open", "Credits":979977108, "Loan":0 }
+{ "timestamp":"2016-12-13T18:00:16Z", "event":"Rank", "Combat":0, "Trade":0, "Explore":0, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-13T18:00:16Z", "event":"Progress", "Combat":21, "Trade":0, "Explore":0, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-13T18:00:43Z", "event":"Location", "Docked":false, "StarSystem":"61 Cygni", "StarPos":[-11.219,-1.188,1.406], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"61 Cygni", "BodyType":"Star", "SystemFaction":"61 Cygni Commodities", "FactionState":"Boom" }
+{ "timestamp":"2016-12-13T18:01:05Z", "event":"SupercruiseEntry", "StarSystem":"61 Cygni" }
+{ "timestamp":"2016-12-13T18:02:35Z", "event":"SupercruiseExit", "StarSystem":"61 Cygni", "Body":"61 Cygni A 1", "BodyType":"Planet" }
+{ "timestamp":"2016-12-13T18:03:33Z", "event":"ReceiveText", "From":"$ShipName_Military_Independent;", "From_Localised":"System Defence Force", "Message":"$Military_UnderFire03;", "Message_Localised":"Time to show you what a real pilot can do... ", "Channel":"npc" }
+{ "timestamp":"2016-12-13T18:04:47Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-13T18:05:26Z", "event":"HullDamage", "Health":0.794002, "PlayerPilot":true, "Fighter":false }
+{ "timestamp":"2016-12-13T18:05:38Z", "event":"HullDamage", "Health":0.574873, "PlayerPilot":true, "Fighter":false }
+{ "timestamp":"2016-12-13T18:05:40Z", "event":"HullDamage", "Health":0.391555, "PlayerPilot":true, "Fighter":false }
+{ "timestamp":"2016-12-13T18:05:44Z", "event":"HullDamage", "Health":0.187413, "PlayerPilot":true, "Fighter":false }
+{ "timestamp":"2016-12-13T18:05:51Z", "event":"Died", "KillerName":"$ShipName_Military_Independent;", "KillerName_Localised":"System Defence Force", "KillerShip":"python", "KillerRank":"Elite" }
+{ "timestamp":"2016-12-13T18:06:11Z", "event":"Resurrect", "Option":"rebuy", "Cost":1001501, "Bankrupt":false }
+{ "timestamp":"2016-12-13T18:06:29Z", "event":"Location", "Docked":true, "StationName":"Kepler Gateway", "StationType":"Coriolis", "StarSystem":"Kruger 60", "StarPos":[-12.625,0.000,-3.406], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Kepler Gateway", "BodyType":"Station", "SystemFaction":"Kruger 60 Free" }
+{ "timestamp":"2016-12-13T18:06:30Z", "event":"Docked", "StationName":"Kepler Gateway", "StationType":"Coriolis", "StarSystem":"Kruger 60", "StationFaction":"Kruger 60 Free", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Federation", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-12-13T18:07:33Z", "event":"ModuleBuy", "Slot":"LargeHardpoint3", "SellItem":"$hpt_cannon_fixed_large_name;", "SellItem_Localised":"Cannon", "SellPrice":67520, "BuyItem":"$hpt_beamlaser_gimbal_large_name;", "BuyItem_Localised":"Beam Laser", "BuyPrice":215655, "Ship":"python", "ShipID":0 }

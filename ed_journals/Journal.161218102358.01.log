@@ -1,0 +1,118 @@
+{ "timestamp":"2016-12-18T10:23:58Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-12-18T10:25:19Z", "event":"LoadGame", "Commander":"Coccolithophore", "Ship":"Vulture", "ShipID":1, "GameMode":"Solo", "Credits":1490238, "Loan":0 }
+{ "timestamp":"2016-12-18T10:25:19Z", "event":"Rank", "Combat":1, "Trade":2, "Explore":2, "Empire":0, "Federation":0, "CQC":0 }
+{ "timestamp":"2016-12-18T10:25:19Z", "event":"Progress", "Combat":65, "Trade":82, "Explore":16, "Empire":0, "Federation":22, "CQC":0 }
+{ "timestamp":"2016-12-18T10:25:54Z", "event":"Location", "Docked":true, "StationName":"Whitson Orbital", "StationType":"Orbis", "StarSystem":"LP 339-7", "StarPos":[-70.063,-8.281,27.906], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Whitson Orbital", "BodyType":"Station", "SystemFaction":"Starship Enterprises", "FactionState":"Boom" }
+{ "timestamp":"2016-12-18T10:25:55Z", "event":"Docked", "StationName":"Whitson Orbital", "StationType":"Orbis", "StarSystem":"LP 339-7", "StationFaction":"Starship Enterprises", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Agri;", "StationEconomy_Localised":"Agriculture" }
+{ "timestamp":"2016-12-18T10:26:36Z", "event":"RepairAll", "Cost":6223 }
+{ "timestamp":"2016-12-18T10:27:26Z", "event":"RefuelAll", "Cost":23, "Amount":0.430356 }
+{ "timestamp":"2016-12-18T10:27:27Z", "event":"BuyAmmo", "Cost":574 }
+{ "timestamp":"2016-12-18T10:27:49Z", "event":"Undocked", "StationName":"Whitson Orbital", "StationType":"Orbis" }
+{ "timestamp":"2016-12-18T10:28:26Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }
+{ "timestamp":"2016-12-18T10:33:50Z", "event":"SupercruiseExit", "StarSystem":"LP 339-7", "Body":"LP 339-7 5 B Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-18T10:34:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Heinicke;", "From_Localised":"Peter Heinicke", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:34:26Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Heinicke;", "From_Localised":"Peter Heinicke", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:34:44Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Heinicke;", "From_Localised":"Peter Heinicke", "Message":"$Pirate_NiggledByNewShip05;", "Message_Localised":"Do you know who I am?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:35:24Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":400 }, { "Faction":"Federation", "Reward":25650 } ], "TotalReward":26050, "VictimFaction":"LP 339-7 Public Inc" }
+{ "timestamp":"2016-12-18T10:35:55Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"decodedemissiondata", "Count":3 }
+{ "timestamp":"2016-12-18T10:35:55Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-12-18T10:35:59Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dennis Plougman Buus;", "From_Localised":"Dennis Plougman Buus", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:36:34Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Dennis Plougman Buus;", "From_Localised":"Dennis Plougman Buus", "Message":"$BadKarmaCriticalDamage08;", "Message_Localised":"I've taken too many hits.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:36:45Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":800 }, { "Faction":"Federation", "Reward":106650 } ], "TotalReward":107450, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T10:37:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Security Chief Anderson;", "From_Localised":"Security Chief Anderson", "Message":"$Pirate_OnDeclarePiracyAttack04;", "Message_Localised":"I'm gonna boil you up!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:37:24Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Gonzorig Banzibar;", "From_Localised":"Gonzorig Banzibar", "Message":"$Escort_AttackDutyStart06;", "Message_Localised":"I live for this!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:37:53Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-18T10:38:23Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Peter Witney;", "From_Localised":"Peter Witney", "Message":"$BadKarmaCriticalDamage04;", "Message_Localised":"I don't believe it!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:38:54Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":56150 } ], "TotalReward":56150, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T10:39:44Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-18T10:39:54Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marcus Kuestermann;", "From_Localised":"Marcus Kuestermann", "Message":"$Escort_EscortJump03;", "Message_Localised":"No lead, no payout, I'm done. Time to bug out.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:40:18Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":400 }, { "Faction":"Federation", "Reward":114390 } ], "TotalReward":114790, "VictimFaction":"Starship Enterprises" }
+{ "timestamp":"2016-12-18T10:40:58Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":400 }, { "Faction":"Federation", "Reward":42367 } ], "TotalReward":42767, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T10:41:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=chipeloi;", "From_Localised":"chipeloi", "Message":"$Pirate_OnStartScanCargo02;", "Message_Localised":"Carrying anything nice?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:41:40Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=chipeloi;", "From_Localised":"chipeloi", "Message":"$Pirate_TargetSkillTooLow02;", "Message_Localised":"An easy mark is an easy mark, sure, but you're not even a challenge.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:43:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Emily Ashton;", "From_Localised":"Emily Ashton", "Message":"$Escort_NearDeath10;", "Message_Localised":"My ship is almost done for. Help!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:43:25Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":135975 } ], "TotalReward":135975, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T10:43:55Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shielddensityreports", "Count":3 }
+{ "timestamp":"2016-12-18T10:44:08Z", "event":"CommitCrime", "CrimeType":"assault", "Faction":"Starship Enterprises", "Victim":"Kaczynski", "Bounty":400 }
+{ "timestamp":"2016-12-18T10:44:09Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Kaczynski;", "From_Localised":"Kaczynski", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:10Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveReinforcement01;", "Message_Localised":"Reinforcements incoming.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:10Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveReinforcement05;", "Message_Localised":"Emergency reserve force deploying.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:25Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":100232 } ], "TotalReward":100232, "VictimFaction":"Independent LP 339-7 Values Party" }
+{ "timestamp":"2016-12-18T10:44:25Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveReinforcement05;", "Message_Localised":"Emergency reserve force deploying.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:28Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Escort_AttackRun04;", "Message_Localised":"Weapons free. Die!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:33Z", "event":"HullDamage", "Health":0.767720 }
+{ "timestamp":"2016-12-18T10:44:33Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-18T10:44:51Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$OverwatchAttackRun06;", "Message_Localised":"Lining up for the shot.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:44:54Z", "event":"HullDamage", "Health":0.598274 }
+{ "timestamp":"2016-12-18T10:45:09Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$OverwatchAttackRun06;", "Message_Localised":"Lining up for the shot.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T10:45:25Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }
+{ "timestamp":"2016-12-18T10:46:30Z", "event":"FSDJump", "StarSystem":"LTT 15985", "StarPos":[-71.688,-10.156,28.156], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":2.494, "FuelUsed":0.053579, "FuelLevel":7.946421, "SystemFaction":"Gilgamesh Ltd", "FactionState":"Boom" }
+{ "timestamp":"2016-12-18T10:59:26Z", "event":"FSDJump", "StarSystem":"LP 339-7", "StarPos":[-70.063,-8.281,27.906], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Agri;", "SystemEconomy_Localised":"Agriculture", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":2.494, "FuelUsed":0.053369, "FuelLevel":7.323051, "SystemFaction":"Starship Enterprises", "FactionState":"Boom" }
+{ "timestamp":"2016-12-18T11:01:44Z", "event":"SupercruiseExit", "StarSystem":"LP 339-7", "Body":"Whitson Orbital", "BodyType":"Station" }
+{ "timestamp":"2016-12-18T11:01:46Z", "event":"ReceiveText", "From":"Whitson Orbital", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:01:55Z", "event":"DockingRequested", "StationName":"Whitson Orbital" }
+{ "timestamp":"2016-12-18T11:01:55Z", "event":"ReceiveText", "From":"Whitson Orbital", "Message":"$DockingChatter_Cordial;", "Message_Localised":"Welcome back, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:01:56Z", "event":"ReceiveText", "From":"Whitson Orbital", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:01:56Z", "event":"DockingGranted", "LandingPad":21, "StationName":"Whitson Orbital" }
+{ "timestamp":"2016-12-18T11:02:52Z", "event":"Docked", "StationName":"Whitson Orbital", "StationType":"Orbis", "StarSystem":"LP 339-7", "StationFaction":"Starship Enterprises", "FactionState":"Boom", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Agri;", "StationEconomy_Localised":"Agriculture" }
+{ "timestamp":"2016-12-18T11:03:05Z", "event":"PayLegacyFines", "Amount":400 }
+{ "timestamp":"2016-12-18T11:03:08Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":583414 }
+{ "timestamp":"2016-12-18T11:03:10Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ian Sustrik;", "From_Localised":"Ian Sustrik", "Message":"$Commuter_AuthorityScan09;", "Message_Localised":"Can we hurry this up please, officer?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:05:28Z", "event":"RepairAll", "Cost":3734 }
+{ "timestamp":"2016-12-18T11:05:29Z", "event":"RefuelAll", "Cost":45, "Amount":0.891021 }
+{ "timestamp":"2016-12-18T11:05:30Z", "event":"BuyAmmo", "Cost":1787 }
+{ "timestamp":"2016-12-18T11:05:50Z", "event":"Undocked", "StationName":"Whitson Orbital", "StationType":"Orbis" }
+{ "timestamp":"2016-12-18T11:06:44Z", "event":"ReceiveText", "From":"Whitson Orbital", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:06:58Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }
+{ "timestamp":"2016-12-18T11:12:18Z", "event":"SupercruiseExit", "StarSystem":"LP 339-7", "Body":"LP 339-7 5 B Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-12-18T11:13:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Crimzon;", "From_Localised":"Crimzon", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:14Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Crimzon;", "From_Localised":"Crimzon", "Message":"$Pirate_LargeCargoIgnoreThreat08;", "Message_Localised":"You are a score worth taking.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:19Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jadesta Treari;", "From_Localised":"Jadesta Treari", "Message":"$Escort_AttackDutyStart02;", "Message_Localised":"Hostiles detected, protect the lead ship at all costs.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:22Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ziggy;", "From_Localised":"Ziggy", "Message":"$Pirate_OnStartScanCargo04;", "Message_Localised":"What do you carry, I wonder?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:28Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=John op t Hof;", "From_Localised":"John op t Hof", "Message":"$Pirate_OnStartScanCargo01;", "Message_Localised":"I see all!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:33Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ziggy;", "From_Localised":"Ziggy", "Message":"$Pirate_LargeCargoIgnoreThreat05;", "Message_Localised":"You look like a fish worth landing.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:38Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=John op t Hof;", "From_Localised":"John op t Hof", "Message":"$Pirate_LargeCargoIgnoreThreat06;", "Message_Localised":"I'm willing to take you on for what you have in your hold.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:48Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=John op t Hof;", "From_Localised":"John op t Hof", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:13:58Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate03;", "Message_Localised":"Crime response flight deployed.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ziggy;", "From_Localised":"Ziggy", "Message":"$Pirate_OnDeclarePiracyAttack09;", "Message_Localised":"I will end you!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:21Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":11950 } ], "TotalReward":11950, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T11:14:27Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Crimzon;", "From_Localised":"Crimzon", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:45Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Ziggy;", "From_Localised":"Ziggy", "Message":"$BadKarmaCriticalDamage02;", "Message_Localised":"Impossible!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:48Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Alliance Enforcer;", "From_Localised":"Alliance Enforcer", "Message":"$BadKarmaCriticalDamage04;", "Message_Localised":"I don't believe it!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:57Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:14:57Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation04;", "Message_Localised":"Rapid deployment unit deployed. Initiating scans of all ships in the area.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:15:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Crimzon;", "From_Localised":"Crimzon", "Message":"$BadKarmaCriticalDamage07;", "Message_Localised":"Too much damage!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:15:07Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-18T11:15:18Z", "event":"Bounty", "Rewards":[ { "Faction":"Starship Enterprises", "Reward":32162 } ], "TotalReward":32162, "VictimFaction":"LP 339-7 Blue Clan" }
+{ "timestamp":"2016-12-18T11:15:45Z", "event":"MaterialDiscovered", "Category":"Encoded", "Name":"shieldsoakanalysis", "DiscoveryNumber":11 }
+{ "timestamp":"2016-12-18T11:15:45Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldsoakanalysis", "Count":3 }
+{ "timestamp":"2016-12-18T11:16:00Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation06;", "Message_Localised":"Rapid criminal investigation scans are finished. Please continue about your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:16:10Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_FinishedAtInvestigationLocation06;", "Message_Localised":"Rapid criminal investigation scans are finished. Please continue about your business.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:16:31Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-12-18T11:16:38Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Mad Progs;", "From_Localised":"Mad Progs", "Message":"$Pirate_OnStartScanCargo07;", "Message_Localised":"Do you have anything of value?", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:16:48Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Mad Progs;", "From_Localised":"Mad Progs", "Message":"$Pirate_OnDeclarePiracyAttack02;", "Message_Localised":"You choose death then. Very well.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:17:11Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Vujone;", "From_Localised":"Vujone", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:17:41Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-12-18T11:18:04Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Mad Progs;", "From_Localised":"Mad Progs", "Message":"$BadKarmaCriticalDamage01;", "Message_Localised":"How is this happening?!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:18:09Z", "event":"HullDamage", "Health":0.763738 }
+{ "timestamp":"2016-12-18T11:18:53Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }
+{ "timestamp":"2016-12-18T11:19:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marcus Sharp;", "From_Localised":"Marcus Sharp", "Message":"$Pirate_HunterHostileSC_Relevant05;", "Message_Localised":"The rumour was right... good job I found you first.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:20:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marcus Sharp;", "From_Localised":"Marcus Sharp", "Message":"$Pirate_StartInterdiction04;", "Message_Localised":"Prepare yourself!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:20:13Z", "event":"Interdicted", "Submitted":true, "Interdictor":"Marcus Sharp", "IsPlayer":false, "Faction":"Traditional LTT 15985 Focus" }
+{ "timestamp":"2016-12-18T11:20:14Z", "event":"SupercruiseExit", "StarSystem":"LP 339-7", "Body":"LP 339-7 5", "BodyType":"Planet" }
+{ "timestamp":"2016-12-18T11:20:27Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marcus Sharp;", "From_Localised":"Marcus Sharp", "Message":"$Pirate_Arrival06;", "Message_Localised":"Hahahahaha!", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:20:35Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }
+{ "timestamp":"2016-12-18T11:20:56Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Marcus Sharp;", "From_Localised":"Marcus Sharp", "Message":"$Pirate_HunterHostileSC_Relevant01;", "Message_Localised":"That's the ship I'm looking for, the one with the big haul...", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:21:16Z", "event":"SupercruiseExit", "StarSystem":"LP 339-7", "Body":"Lazarev Enterprise", "BodyType":"Station" }
+{ "timestamp":"2016-12-18T11:21:24Z", "event":"DockingRequested", "StationName":"Lazarev Enterprise" }
+{ "timestamp":"2016-12-18T11:21:24Z", "event":"ReceiveText", "From":"Lazarev Enterprise", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:21:25Z", "event":"ReceiveText", "From":"Lazarev Enterprise", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:21:25Z", "event":"DockingGranted", "LandingPad":2, "StationName":"Lazarev Enterprise" }
+{ "timestamp":"2016-12-18T11:21:34Z", "event":"ReceiveText", "From":"Lazarev Enterprise", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:22:10Z", "event":"Docked", "StationName":"Lazarev Enterprise", "StationType":"Outpost", "StarSystem":"LP 339-7", "StationFaction":"LP 339-7 Public Inc", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationEconomy":"$economy_Industrial;", "StationEconomy_Localised":"Industrial" }
+{ "timestamp":"2016-12-18T11:22:19Z", "event":"RepairAll", "Cost":11649 }
+{ "timestamp":"2016-12-18T11:22:19Z", "event":"RefuelAll", "Cost":18, "Amount":0.342534 }
+{ "timestamp":"2016-12-18T11:22:20Z", "event":"BuyAmmo", "Cost":1419 }
+{ "timestamp":"2016-12-18T11:22:38Z", "event":"Undocked", "StationName":"Lazarev Enterprise", "StationType":"Outpost" }
+{ "timestamp":"2016-12-18T11:23:04Z", "event":"ReceiveText", "From":"Lazarev Enterprise", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-12-18T11:23:16Z", "event":"SupercruiseEntry", "StarSystem":"LP 339-7" }

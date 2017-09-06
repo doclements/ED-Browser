@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+        <div id="plotly-div" style="width:80%;height:95%;"></div>
+    <script>
+     var trace1 = __trace__,
+     mode: 'lines',
+     line: {
+        color:[ __colors__ ],
+        reversescale: false,
+        width: 3
+      },
+     type: "scatter3d"
+   };
+ 
+ 
+  data = [trace1];
+layout = {margin: {
+    r: 0, 
+    t: 0, 
+    b: 0, 
+    l: 0
+  }};
+
+
+
+Plotly.plot('plotly-div', {
+  data: data,
+  layout: layout
+});
+    </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "name": "edjournalexplorer",
+  "description": "Elite Dangerous journal tools",
+  "authors": "d.o.clements@gmail.com",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "bulma": "^0.5.1",
+    "express": "^4.15.4",
+    "plotly": "^1.0.6",
+    "pug": "^2.0.0-rc.3"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "start": "babel-node index.js --presets es2015,stage-2"
+  }
+}

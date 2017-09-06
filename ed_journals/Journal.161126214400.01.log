@@ -1,0 +1,286 @@
+{ "timestamp":"2016-11-26T21:44:00Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.2", "build":"r126898/r0 " }
+{ "timestamp":"2016-11-26T21:45:08Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Asp", "ShipID":13, "GameMode":"Solo", "Credits":14783167, "Loan":0 }
+{ "timestamp":"2016-11-26T21:45:08Z", "event":"Rank", "Combat":4, "Trade":5, "Explore":4, "Empire":2, "Federation":7, "CQC":0 }
+{ "timestamp":"2016-11-26T21:45:08Z", "event":"Progress", "Combat":19, "Trade":87, "Explore":29, "Empire":18, "Federation":4, "CQC":0 }
+{ "timestamp":"2016-11-26T21:45:39Z", "event":"Location", "Docked":true, "StationName":"Weyn Ring", "StationType":"Coriolis", "StarSystem":"Banisas", "StarPos":[-97.344,42.625,-6.938], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Dictatorship;", "SystemGovernment_Localised":"Dictatorship", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "Body":"Weyn Ring", "BodyType":"Station", "SystemFaction":"Freedom Party of Banisas" }
+{ "timestamp":"2016-11-26T21:45:40Z", "event":"Docked", "StationName":"Weyn Ring", "StationType":"Coriolis", "StarSystem":"Banisas", "StationFaction":"Freedom Party of Banisas", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-11-26T21:54:07Z", "event":"ShipyardSwap", "ShipType":"python", "ShipID":14, "StoreOldShip":"Asp", "StoreShipID":13 }
+{ "timestamp":"2016-11-26T21:54:22Z", "event":"Docked", "StationName":"Weyn Ring", "StationType":"Coriolis", "StarSystem":"Banisas", "StationFaction":"Freedom Party of Banisas", "StationGovernment":"$government_Dictatorship;", "StationGovernment_Localised":"Dictatorship", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-11-26T21:57:18Z", "event":"ModuleBuy", "Slot":"Slot07_Size3", "BuyItem":"$int_passengercabin_size3_class2_name;", "BuyItem_Localised":"BC Passenger Cabin", "BuyPrice":26705, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T21:58:29Z", "event":"Undocked", "StationName":"Weyn Ring", "StationType":"Coriolis" }
+{ "timestamp":"2016-11-26T21:58:53Z", "event":"ReceiveText", "From":"Weyn Ring", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T21:59:50Z", "event":"FSDJump", "StarSystem":"Basus", "StarPos":[-95.656,38.063,-13.469], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":8.144, "FuelUsed":0.949839, "FuelLevel":31.050161, "SystemFaction":"Basus Major Systems" }
+{ "timestamp":"2016-11-26T22:02:44Z", "event":"USSDrop", "USSType":"$USS_Type_ValuableSalvage;", "USSType_Localised":"Encoded emissions detected", "USSThreat":0 }
+{ "timestamp":"2016-11-26T22:02:45Z", "event":"SupercruiseExit", "StarSystem":"Basus", "Body":"Basus ABC", "BodyType":"Null" }
+{ "timestamp":"2016-11-26T22:03:30Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"fsdtelemetry", "Count":3 }
+{ "timestamp":"2016-11-26T22:03:30Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"emissiondata", "Count":3 }
+{ "timestamp":"2016-11-26T22:03:53Z", "event":"SupercruiseEntry", "StarSystem":"Basus" }
+{ "timestamp":"2016-11-26T22:07:59Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Rogers;", "From_Localised":"Andrew Rogers", "Message":"$Pirate_HunterHostileSC_Relevant04;", "Message_Localised":"Big haul like that, surprised you made it this far.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:08:15Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Rogers;", "From_Localised":"Andrew Rogers", "Message":"$Pirate_StartInterdiction02;", "Message_Localised":"There's no escape!", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:08:21Z", "event":"Interdicted", "Submitted":true, "Interdictor":"Andrew Rogers", "IsPlayer":false, "Faction":"Basus Major Systems" }
+{ "timestamp":"2016-11-26T22:08:24Z", "event":"SupercruiseExit", "StarSystem":"Basus", "Body":"Basus D", "BodyType":"Star" }
+{ "timestamp":"2016-11-26T22:08:26Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Rogers;", "From_Localised":"Andrew Rogers", "Message":"$Pirate_OnDeclarePiracyThreaten07;", "Message_Localised":"Your cargo now belongs to me. ", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:08:36Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Rogers;", "From_Localised":"Andrew Rogers", "Message":"$Pirate_OnDeclarePiracyAttack14;", "Message_Localised":"Your doom approaches.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:09:30Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Andrew Rogers;", "From_Localised":"Andrew Rogers", "Message":"$BadKarmaCriticalDamage05;", "Message_Localised":"No, no!", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:09:37Z", "event":"Bounty", "Rewards":[ { "Faction":"Basus Major Systems", "Reward":400 }, { "Faction":"Federation", "Reward":28822 } ], "TotalReward":29222, "VictimFaction":"Basus Major Systems" }
+{ "timestamp":"2016-11-26T22:10:03Z", "event":"SupercruiseEntry", "StarSystem":"Basus" }
+{ "timestamp":"2016-11-26T22:12:00Z", "event":"SupercruiseExit", "StarSystem":"Basus", "Body":"Carpenter Landing", "BodyType":"Station" }
+{ "timestamp":"2016-11-26T22:12:17Z", "event":"DockingRequested", "StationName":"Carpenter Landing" }
+{ "timestamp":"2016-11-26T22:12:17Z", "event":"ReceiveText", "From":"Carpenter Landing", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:12:18Z", "event":"ReceiveText", "From":"Carpenter Landing", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:12:18Z", "event":"DockingGranted", "LandingPad":30, "StationName":"Carpenter Landing" }
+{ "timestamp":"2016-11-26T22:12:23Z", "event":"ReceiveText", "From":"Carpenter Landing", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:13:29Z", "event":"Docked", "StationName":"Carpenter Landing", "StationType":"Coriolis", "StarSystem":"Basus", "StationFaction":"Basus Major Systems", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Refinery;", "StationEconomy_Localised":"Refinery" }
+{ "timestamp":"2016-11-26T22:14:25Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":29222 }
+{ "timestamp":"2016-11-26T22:15:11Z", "event":"RefuelAll", "Cost":70, "Amount":1.386021 }
+{ "timestamp":"2016-11-26T22:17:03Z", "event":"ModuleSwap", "FromSlot":"MediumHardpoint2", "ToSlot":"MediumHardpoint1", "FromItem":"$hpt_basicmissilerack_fixed_medium_name;", "FromItem_Localised":"Seeker Missile Rack", "ToItem":"$hpt_basicmissilerack_fixed_medium_name;", "ToItem_Localised":"Seeker Missile Rack", "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:17:35Z", "event":"ModuleBuy", "Slot":"MediumHardpoint1", "SellItem":"$hpt_basicmissilerack_fixed_medium_name;", "SellItem_Localised":"Seeker Missile Rack", "SellPrice":435540, "BuyItem":"$hpt_multicannon_fixed_medium_name;", "BuyItem_Localised":"Multi-Cannon", "BuyPrice":38000, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:19:51Z", "event":"ModuleBuy", "Slot":"MediumHardpoint1", "SellItem":"$hpt_multicannon_fixed_medium_name;", "SellItem_Localised":"Multi-Cannon", "SellPrice":38000, "BuyItem":"$hpt_basicmissilerack_fixed_medium_name;", "BuyItem_Localised":"Seeker Missile Rack", "BuyPrice":435540, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:20:46Z", "event":"SellExplorationData", "Systems":[ "G 218-5", "AC +60 40462", "NLTT 2224" ], "Discovered":[  ], "BaseValue":21524, "Bonus":0 }
+{ "timestamp":"2016-11-26T22:21:38Z", "event":"ModuleBuy", "Slot":"LargeHardpoint1", "SellItem":"$hpt_beamlaser_gimbal_large_name;", "SellItem_Localised":"Beam Laser", "SellPrice":2036736, "BuyItem":"$hpt_mininglaser_fixed_medium_name;", "BuyItem_Localised":"Mining Laser", "BuyPrice":22576, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:22:10Z", "event":"ModuleBuy", "Slot":"LargeHardpoint2", "SellItem":"$hpt_beamlaser_gimbal_large_name;", "SellItem_Localised":"Beam Laser", "SellPrice":2396160, "BuyItem":"$hpt_mininglaser_fixed_medium_name;", "BuyItem_Localised":"Mining Laser", "BuyPrice":22576, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:26:47Z", "event":"Undocked", "StationName":"Carpenter Landing", "StationType":"Coriolis" }
+{ "timestamp":"2016-11-26T22:27:38Z", "event":"ReceiveText", "From":"Carpenter Landing", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:28:30Z", "event":"FSDJump", "StarSystem":"Tsohodiae", "StarPos":[-103.750,30.969,-1.563], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":16.050, "FuelUsed":4.816706, "FuelLevel":27.183294, "SystemFaction":"Tsohodiae Universal Solutions" }
+{ "timestamp":"2016-11-26T22:40:37Z", "event":"LoadGame", "Commander":"Blantyre", "Ship":"Python", "ShipID":14, "GameMode":"Solo", "Credits":19194882, "Loan":0 }
+{ "timestamp":"2016-11-26T22:40:37Z", "event":"Rank", "Combat":4, "Trade":5, "Explore":4, "Empire":2, "Federation":7, "CQC":0 }
+{ "timestamp":"2016-11-26T22:40:37Z", "event":"Progress", "Combat":19, "Trade":87, "Explore":30, "Empire":18, "Federation":4, "CQC":0 }
+{ "timestamp":"2016-11-26T22:40:56Z", "event":"Location", "Docked":false, "StarSystem":"Tsohodiae", "StarPos":[-103.750,30.969,-1.563], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "Body":"Tsohodiae A", "BodyType":"Star", "SystemFaction":"Tsohodiae Universal Solutions" }
+{ "timestamp":"2016-11-26T22:41:23Z", "event":"SupercruiseEntry", "StarSystem":"Tsohodiae" }
+{ "timestamp":"2016-11-26T22:43:07Z", "event":"SupercruiseExit", "StarSystem":"Tsohodiae", "Body":"Navigator Platform", "BodyType":"Station" }
+{ "timestamp":"2016-11-26T22:43:21Z", "event":"DockingRequested", "StationName":"Navigator Platform" }
+{ "timestamp":"2016-11-26T22:43:21Z", "event":"ReceiveText", "From":"Navigator Platform", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:43:22Z", "event":"ReceiveText", "From":"Navigator Platform", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:43:22Z", "event":"DockingGranted", "LandingPad":26, "StationName":"Navigator Platform" }
+{ "timestamp":"2016-11-26T22:43:39Z", "event":"ReceiveText", "From":"Navigator Platform", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:44:30Z", "event":"Docked", "StationName":"Navigator Platform", "StationType":"Coriolis", "StarSystem":"Tsohodiae", "StationFaction":"Tsohodiae Universal Solutions", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_Refinery;", "StationEconomy_Localised":"Refinery" }
+{ "timestamp":"2016-11-26T22:46:20Z", "event":"ModuleBuy", "Slot":"Slot02_Size6", "SellItem":"$int_hullreinforcement_size4_class2_name;", "SellItem_Localised":"Hull Reinforcement", "SellPrice":195000, "BuyItem":"$int_refinery_size4_class5_name;", "BuyItem_Localised":"Refinery", "BuyPrice":4500846, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T22:47:29Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Tom Inspace;", "From_Localised":"Tom Inspace", "Message":"$Commuter_AuthorityScan04;", "Message_Localised":"Is this really necessary?", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:50:22Z", "event":"Undocked", "StationName":"Navigator Platform", "StationType":"Coriolis" }
+{ "timestamp":"2016-11-26T22:50:53Z", "event":"ReceiveText", "From":"Navigator Platform", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T22:51:51Z", "event":"FSDJump", "StarSystem":"Awawad", "StarPos":[-101.750,37.813,-10.375], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":11.336, "FuelUsed":1.918852, "FuelLevel":25.264442, "SystemFaction":"Awawad Group" }
+{ "timestamp":"2016-11-26T23:01:45Z", "event":"SupercruiseExit", "StarSystem":"Awawad", "Body":"Bardeen City", "BodyType":"Station" }
+{ "timestamp":"2016-11-26T23:02:20Z", "event":"DockingRequested", "StationName":"Bardeen City" }
+{ "timestamp":"2016-11-26T23:02:20Z", "event":"ReceiveText", "From":"Bardeen City", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:02:22Z", "event":"ReceiveText", "From":"Bardeen City", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:02:22Z", "event":"DockingGranted", "LandingPad":8, "StationName":"Bardeen City" }
+{ "timestamp":"2016-11-26T23:02:25Z", "event":"ReceiveText", "From":"Bardeen City", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:03:09Z", "event":"Docked", "StationName":"Bardeen City", "StationType":"Bernal", "StarSystem":"Awawad", "StationFaction":"Awawad Group", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationEconomy":"$economy_Refinery;", "StationEconomy_Localised":"Refinery" }
+{ "timestamp":"2016-11-26T23:04:02Z", "event":"ModuleBuy", "Slot":"Slot04_Size5", "SellItem":"$int_cargorack_size5_class1_name;", "SellItem_Localised":"Cargo Rack", "SellPrice":111566, "BuyItem":"$int_dronecontrol_collection_size5_class5_name;", "BuyItem_Localised":"Collector", "BuyPrice":777600, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:04:12Z", "event":"ModuleBuy", "Slot":"Slot05_Size5", "SellItem":"$int_cargorack_size5_class1_name;", "SellItem_Localised":"Cargo Rack", "SellPrice":94832, "BuyItem":"$int_dronecontrol_collection_size5_class5_name;", "BuyItem_Localised":"Collector", "BuyPrice":777600, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:04:45Z", "event":"ModuleSwap", "FromSlot":"Slot06_Size4", "ToSlot":"Slot02_Size6", "FromItem":"$int_fsdinterdictor_size4_class3_name;", "FromItem_Localised":"FSD Interdictor", "ToItem":"$int_refinery_size4_class5_name;", "ToItem_Localised":"Refinery", "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:05:04Z", "event":"ModuleBuy", "Slot":"Slot02_Size6", "SellItem":"$int_fsdinterdictor_size4_class3_name;", "SellItem_Localised":"FSD Interdictor", "SellPrice":2370816, "BuyItem":"$int_dronecontrol_prospector_size5_class4_name;", "BuyItem_Localised":"Prospector", "BuyPrice":388800, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:05:21Z", "event":"ModuleBuy", "Slot":"Slot03_Size6", "SellItem":"$int_hullreinforcement_size4_class2_name;", "SellItem_Localised":"Hull Reinforcement", "SellPrice":195000, "BuyItem":"$int_cargorack_size6_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":362591, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:06:11Z", "event":"ModuleBuy", "Slot":"Slot07_Size3", "SellItem":"$int_passengercabin_size3_class2_name;", "SellItem_Localised":"BC Passenger Cabin", "SellPrice":26705, "BuyItem":"$int_dronecontrol_prospector_size3_class5_name;", "BuyItem_Localised":"Prospector", "BuyPrice":86400, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:06:20Z", "event":"ModuleBuy", "Slot":"Slot02_Size6", "SellItem":"$int_dronecontrol_prospector_size5_class4_name;", "SellItem_Localised":"Prospector", "SellPrice":388800, "BuyItem":"$int_cargorack_size6_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":362591, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-26T23:06:40Z", "event":"BuyAmmo", "Cost":6200 }
+{ "timestamp":"2016-11-26T23:06:58Z", "event":"BuyDrones", "Type":"Drones", "Count":100, "BuyPrice":101, "TotalCost":10100 }
+{ "timestamp":"2016-11-26T23:13:33Z", "event":"Undocked", "StationName":"Bardeen City", "StationType":"Bernal" }
+{ "timestamp":"2016-11-26T23:14:17Z", "event":"ReceiveText", "From":"Bardeen City", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:14:58Z", "event":"FSDJump", "StarSystem":"Cephei Sector PI-T b3-4", "StarPos":[-101.719,26.438,-15.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":12.303, "FuelUsed":3.555652, "FuelLevel":21.708790 }
+{ "timestamp":"2016-11-26T23:15:22Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Twoflower;", "From_Localised":"Twoflower", "Message":"$Pirate_HunterHostileSC_Relevant01;", "Message_Localised":"That's the ship I'm looking for, the one with the big haul...", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:16:12Z", "event":"FSDJump", "StarSystem":"Coqui Renes", "StarPos":[-102.188,20.188,-23.125], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":10.212, "FuelUsed":2.230314, "FuelLevel":19.478476, "SystemFaction":"Coqui Renes Co" }
+{ "timestamp":"2016-11-26T23:17:35Z", "event":"FSDJump", "StarSystem":"Cephei Sector MX-U b2-0", "StarPos":[-105.938,12.406,-26.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":9.332, "FuelUsed":1.777051, "FuelLevel":17.701424 }
+{ "timestamp":"2016-11-26T23:18:39Z", "event":"FSDJump", "StarSystem":"Njikan", "StarPos":[-104.781,3.656,-20.813], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_HighTech;", "SystemEconomy_Localised":"High tech", "SystemGovernment":"$government_Corporate;", "SystemGovernment_Localised":"Corporate", "SystemSecurity":"$SYSTEM_SECURITY_medium;", "SystemSecurity_Localised":"Medium Security", "JumpDist":10.585, "FuelUsed":2.407886, "FuelLevel":15.293538, "SystemFaction":"Njikan Jet Dynamic Industry" }
+{ "timestamp":"2016-11-26T23:22:35Z", "event":"SupercruiseExit", "StarSystem":"Njikan", "Body":"Njikan 4 A Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-11-26T23:23:56Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Macross of Avalon;", "From_Localised":"Macross of Avalon", "Message":"$Pirate_OnStartScanCargo03;", "Message_Localised":"What are you hauling?", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:24:06Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Macross of Avalon;", "From_Localised":"Macross of Avalon", "Message":"$Pirate_OnDeclarePiracyThreaten03;", "Message_Localised":"I just want cargo.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:24:16Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Macross of Avalon;", "From_Localised":"Macross of Avalon", "Message":"$Pirate_OnDeclarePiracyAttack03;", "Message_Localised":"Now you die, victim.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:25:02Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Macross of Avalon;", "From_Localised":"Macross of Avalon", "Message":"$Pirate_OnDeclarePiracyAttack08;", "Message_Localised":"Die!", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:25:21Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArriveInvestigate04;", "Message_Localised":"Emergency response squad in position.", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:25:22Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ArrivedAtInvestigationLocation02;", "Message_Localised":"Cease and desist! Submit to authority scans immediately!", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:25:53Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Macross of Avalon;", "From_Localised":"Macross of Avalon", "Message":"$BadKarmaCriticalDamage03;", "Message_Localised":"You fight a good fight!", "Channel":"npc" }
+{ "timestamp":"2016-11-26T23:26:07Z", "event":"ShieldState", "ShieldsUp":false }
+{ "timestamp":"2016-11-26T23:26:12Z", "event":"Bounty", "Rewards":[ { "Faction":"Njikan Jet Dynamic Industry", "Reward":34900 } ], "TotalReward":34900, "VictimFaction":"Njikan Crew" }
+{ "timestamp":"2016-11-26T23:27:44Z", "event":"ShieldState", "ShieldsUp":true }
+{ "timestamp":"2016-11-26T23:28:03Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:28:21Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:28:39Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:28:54Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:29:08Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2016-11-26T23:29:20Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:29:25Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:29:34Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:30:04Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:30:41Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2016-11-26T23:30:43Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:31:00Z", "event":"MiningRefined", "Type":"$silver_name;", "Type_Localised":"Silver" }
+{ "timestamp":"2016-11-26T23:31:06Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:31:27Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-26T23:31:51Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-26T23:31:52Z", "event":"MaterialCollected", "Category":"Raw", "Name":"carbon", "Count":3 }
+{ "timestamp":"2016-11-26T23:35:01Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:35:20Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:35:26Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:35:38Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:35:44Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:11Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:12Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:31Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:32Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:52Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:36:55Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2016-11-26T23:36:56Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:44:04Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2016-11-26T23:44:25Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2016-11-26T23:44:30Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-26T23:44:31Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2016-11-26T23:44:49Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-26T23:44:58Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2016-11-26T23:45:16Z", "event":"MiningRefined", "Type":"$samarium_name;", "Type_Localised":"Samarium" }
+{ "timestamp":"2016-11-26T23:45:30Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2016-11-26T23:52:01Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2016-11-26T23:52:18Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-26T23:52:19Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:52:58Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-26T23:53:20Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-26T23:53:40Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-26T23:53:40Z", "event":"MiningRefined", "Type":"$praseodymium_name;", "Type_Localised":"Praseodymium" }
+{ "timestamp":"2016-11-26T23:53:45Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2016-11-26T23:55:02Z", "event":"SupercruiseEntry", "StarSystem":"Njikan" }
+{ "timestamp":"2016-11-26T23:57:22Z", "event":"SupercruiseExit", "StarSystem":"Njikan", "Body":"Njikan 4 A Ring", "BodyType":"PlanetaryRing" }
+{ "timestamp":"2016-11-27T00:00:13Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:00:19Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:00:38Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:00:59Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:01:02Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:01:22Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:01:23Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:01:25Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:01:47Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:02:03Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:02:20Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:06:37Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:06:46Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:06:46Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:06:55Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:06:56Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:07:06Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:07:06Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:07:10Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:07:11Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:07:16Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:07:17Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:07:19Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:07:22Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:07:22Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:07:26Z", "event":"MiningRefined", "Type":"$painite_name;", "Type_Localised":"Painite" }
+{ "timestamp":"2016-11-27T00:07:30Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2016-11-27T00:07:31Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:07:31Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:10:47Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:11:03Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:11:07Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-27T00:11:26Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:11:28Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-27T00:11:36Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:12:18Z", "event":"MiningRefined", "Type":"$bertrandite_name;", "Type_Localised":"Bertrandite" }
+{ "timestamp":"2016-11-27T00:12:18Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:16:27Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:16:27Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:16:35Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:16:47Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:16:53Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:16:55Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:03Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:17:04Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:14Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:24Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:35Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:36Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:17:44Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:17:56Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:18:07Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:18:10Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:23:53Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-27T00:24:00Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:24:06Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-27T00:24:11Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:24:17Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-27T00:24:22Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2016-11-27T00:24:22Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:24:32Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-27T00:24:35Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:24:45Z", "event":"MiningRefined", "Type":"$palladium_name;", "Type_Localised":"Palladium" }
+{ "timestamp":"2016-11-27T00:24:48Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:24:54Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2016-11-27T00:24:55Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2016-11-27T00:24:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:25:03Z", "event":"MaterialCollected", "Category":"Raw", "Name":"sulphur", "Count":3 }
+{ "timestamp":"2016-11-27T00:27:53Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:27:55Z", "event":"MiningRefined", "Type":"$gallite_name;", "Type_Localised":"Gallite" }
+{ "timestamp":"2016-11-27T00:27:56Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:09Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:28:20Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:32Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:38Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:44Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2016-11-27T00:28:46Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:54Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:28:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2016-11-27T00:29:05Z", "event":"MaterialCollected", "Category":"Raw", "Name":"phosphorus", "Count":3 }
+{ "timestamp":"2016-11-27T00:29:20Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2016-11-27T00:29:23Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:33:08Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:34:13Z", "event":"MiningRefined", "Type":"$platinum_name;", "Type_Localised":"Platinum" }
+{ "timestamp":"2016-11-27T00:34:47Z", "event":"MiningRefined", "Type":"$indite_name;", "Type_Localised":"Indite" }
+{ "timestamp":"2016-11-27T00:36:39Z", "event":"SupercruiseEntry", "StarSystem":"Njikan" }
+{ "timestamp":"2016-11-27T00:38:25Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"shieldpatternanalysis", "Count":3 }
+{ "timestamp":"2016-11-27T00:38:25Z", "event":"MaterialCollected", "Category":"Encoded", "Name":"decodedemissiondata", "Count":3 }
+{ "timestamp":"2016-11-27T00:41:54Z", "event":"SupercruiseExit", "StarSystem":"Njikan", "Body":"Smeaton Port", "BodyType":"Station" }
+{ "timestamp":"2016-11-27T00:42:26Z", "event":"ReceiveText", "From":"Smeaton Port", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:42:40Z", "event":"DockingRequested", "StationName":"Smeaton Port" }
+{ "timestamp":"2016-11-27T00:42:40Z", "event":"ReceiveText", "From":"Smeaton Port", "Message":"$DockingChatter_Allied;", "Message_Localised":"An ally like you is always welcome here.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:42:41Z", "event":"ReceiveText", "From":"Smeaton Port", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:42:41Z", "event":"DockingGranted", "LandingPad":38, "StationName":"Smeaton Port" }
+{ "timestamp":"2016-11-27T00:43:52Z", "event":"Docked", "StationName":"Smeaton Port", "StationType":"Coriolis", "StarSystem":"Njikan", "StationFaction":"Njikan Jet Dynamic Industry", "StationGovernment":"$government_Corporate;", "StationGovernment_Localised":"Corporate", "StationAllegiance":"Federation", "StationEconomy":"$economy_HighTech;", "StationEconomy_Localised":"High tech" }
+{ "timestamp":"2016-11-27T00:45:10Z", "event":"MarketSell", "Type":"platinum", "Count":52, "SellPrice":19138, "TotalSale":995176, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:22Z", "event":"MarketSell", "Type":"silver", "Count":2, "SellPrice":5558, "TotalSale":11116, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:27Z", "event":"MarketSell", "Type":"palladium", "Count":6, "SellPrice":13901, "TotalSale":83406, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:33Z", "event":"MarketSell", "Type":"bertrandite", "Count":7, "SellPrice":3032, "TotalSale":21224, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:38Z", "event":"MarketSell", "Type":"gallite", "Count":13, "SellPrice":2389, "TotalSale":31057, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:45Z", "event":"MarketSell", "Type":"indite", "Count":3, "SellPrice":2691, "TotalSale":8073, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T00:45:56Z", "event":"ReceiveText", "From":"$npc_name_decorate:#name=Jack Stuart;", "From_Localised":"Jack Stuart", "Message":"$Commuter_AuthorityScan05;", "Message_Localised":"On what grounds are you scanning this vessel, officer?", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:46:14Z", "event":"RefuelAll", "Cost":1009, "Amount":20.153528 }
+{ "timestamp":"2016-11-27T00:47:51Z", "event":"ModuleBuy", "Slot":"Slot03_Size6", "SellItem":"$int_cargorack_size6_class1_name;", "SellItem_Localised":"Cargo Rack", "SellPrice":362591, "BuyItem":"$int_passengercabin_size6_class2_name;", "BuyItem_Localised":"BC Passenger Cabin", "BuyPrice":184232, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T00:48:11Z", "event":"MissionAccepted", "Faction":"Njikan Jet Dynamic Industry", "Name":"Mission_PassengerBulk", "DestinationSystem":"Maidubii", "DestinationStation":"Landsteiner Penal colony", "Expiry":"2016-11-27T04:20:18Z", "PassengerCount":15, "PassengerVIPs":false, "PassengerWanted":false, "PassengerType":"Tourist", "MissionID":54197370 }
+{ "timestamp":"2016-11-27T00:49:25Z", "event":"Undocked", "StationName":"Smeaton Port", "StationType":"Coriolis" }
+{ "timestamp":"2016-11-27T00:49:59Z", "event":"ReceiveText", "From":"Smeaton Port", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:51:36Z", "event":"FSDJump", "StarSystem":"Cephei Sector NX-U b2-1", "StarPos":[-97.688,1.156,-32.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":14.295, "FuelUsed":4.723101, "FuelLevel":27.276899 }
+{ "timestamp":"2016-11-27T00:52:32Z", "event":"FSDJump", "StarSystem":"Cephei Sector NX-U b2-0", "StarPos":[-104.500,0.031,-42.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":12.024, "FuelUsed":3.049001, "FuelLevel":24.227898 }
+{ "timestamp":"2016-11-27T00:53:36Z", "event":"FSDJump", "StarSystem":"Maidubii", "StarPos":[-105.906,2.719,-49.656], "SystemAllegiance":"Independent", "SystemEconomy":"$economy_Industrial;", "SystemEconomy_Localised":"Industrial", "SystemGovernment":"$government_Communism;", "SystemGovernment_Localised":"Communism", "SystemSecurity":"$SYSTEM_SECURITY_high;", "SystemSecurity_Localised":"High Security", "JumpDist":7.486, "FuelUsed":0.946330, "FuelLevel":23.281567, "SystemFaction":"Union of Maidubii Union Party" }
+{ "timestamp":"2016-11-27T00:57:34Z", "event":"ApproachSettlement", "Name":"Landsteiner Penal colony" }
+{ "timestamp":"2016-11-27T00:57:46Z", "event":"SupercruiseExit", "StarSystem":"Maidubii", "Body":"Maidubii 4 d", "BodyType":"Planet" }
+{ "timestamp":"2016-11-27T00:58:04Z", "event":"DockingRequested", "StationName":"Landsteiner Penal colony" }
+{ "timestamp":"2016-11-27T00:58:04Z", "event":"ReceiveText", "From":"Landsteiner Penal colony", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:58:06Z", "event":"ReceiveText", "From":"Landsteiner Penal colony", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:58:06Z", "event":"DockingGranted", "LandingPad":7, "StationName":"Landsteiner Penal colony" }
+{ "timestamp":"2016-11-27T00:58:07Z", "event":"ReceiveText", "From":"Landsteiner Penal colony", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:59:01Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_ThankYouPassedStopAndSearch01;", "Message_Localised":"Thank you for your cooperation, Commander.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T00:59:15Z", "event":"Docked", "StationName":"Landsteiner Penal colony", "StarSystem":"Maidubii", "StationFaction":"Union of Maidubii Union Party", "StationGovernment":"$government_Communism;", "StationGovernment_Localised":"Communism" }
+{ "timestamp":"2016-11-27T00:59:51Z", "event":"MissionCompleted", "Faction":"Union of Maidubii Union Party", "Name":"Mission_PassengerBulk_name", "MissionID":54197370, "DestinationSystem":"Maidubii", "DestinationStation":"Landsteiner Penal colony", "Reward":558000 }
+{ "timestamp":"2016-11-27T01:00:04Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_EndPatrol04;", "Message_Localised":"Negative, Tower, I'm bingo on fuel, RTB.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:00:22Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_EndPatrol02;", "Message_Localised":"Requesting docking clearance, Control.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:03:23Z", "event":"BuyExplorationData", "System":"Tivertsi", "Cost":414 }
+{ "timestamp":"2016-11-27T01:03:31Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol05;", "Message_Localised":"I'm heading out, Control. Hearing that rattle again, I'll see if I can lock it down.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:03:36Z", "event":"ReceiveText", "From":"$ShipName_Police_Federation;", "From_Localised":"Federal Security Service", "Message":"$Police_StartPatrol03;", "Message_Localised":"Receiving five by five, I'm in the air now, joining patrol.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:03:54Z", "event":"Undocked", "StationName":"Landsteiner Penal colony" }
+{ "timestamp":"2016-11-27T01:04:49Z", "event":"ReceiveText", "From":"Landsteiner Penal colony", "Message":"$STATION_NoFireZone_exited;", "Message_Localised":"No fire zone left.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:05:59Z", "event":"FSDJump", "StarSystem":"Tivertsi", "StarPos":[-106.688,2.031,-50.063], "SystemAllegiance":"Federation", "SystemEconomy":"$economy_Refinery;", "SystemEconomy_Localised":"Refinery", "SystemGovernment":"$government_Democracy;", "SystemGovernment_Localised":"Democracy", "SystemSecurity":"$SYSTEM_SECURITY_low;", "SystemSecurity_Localised":"Low Security", "JumpDist":1.117, "FuelUsed":0.008930, "FuelLevel":23.272636, "SystemFaction":"Tivertsi Labour" }
+{ "timestamp":"2016-11-27T01:08:37Z", "event":"SupercruiseExit", "StarSystem":"Tivertsi", "Body":"Forstchen Plant", "BodyType":"Station" }
+{ "timestamp":"2016-11-27T01:08:48Z", "event":"DockingRequested", "StationName":"Forstchen Plant" }
+{ "timestamp":"2016-11-27T01:08:48Z", "event":"ReceiveText", "From":"Forstchen Plant", "Message":"$DockingChatter_Neutral;", "Message_Localised":"Ensure to observe starport protocol during your visit, pilot.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:08:49Z", "event":"ReceiveText", "From":"Forstchen Plant", "Message":"$STATION_docking_granted;", "Message_Localised":"Docking request granted.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:08:49Z", "event":"DockingGranted", "LandingPad":5, "StationName":"Forstchen Plant" }
+{ "timestamp":"2016-11-27T01:09:01Z", "event":"ReceiveText", "From":"Forstchen Plant", "Message":"$STATION_NoFireZone_entered;", "Message_Localised":"No fire zone entered.", "Channel":"npc" }
+{ "timestamp":"2016-11-27T01:09:54Z", "event":"Docked", "StationName":"Forstchen Plant", "StationType":"Outpost", "StarSystem":"Tivertsi", "StationFaction":"Tivertsi Labour", "StationGovernment":"$government_Democracy;", "StationGovernment_Localised":"Democracy", "StationAllegiance":"Federation", "StationEconomy":"$economy_Refinery;", "StationEconomy_Localised":"Refinery" }
+{ "timestamp":"2016-11-27T01:10:18Z", "event":"MarketSell", "Type":"painite", "Count":7, "SellPrice":36705, "TotalSale":256935, "AvgPricePaid":0 }
+{ "timestamp":"2016-11-27T01:10:40Z", "event":"RefuelAll", "Cost":459, "Amount":9.166776 }
+{ "timestamp":"2016-11-27T01:13:58Z", "event":"RepairAll", "Cost":5099 }
+{ "timestamp":"2016-11-27T01:15:58Z", "event":"RedeemVoucher", "Type":"bounty", "Amount":26250, "BrokerPercentage":25.000000 }
+{ "timestamp":"2016-11-27T01:17:32Z", "event":"ModuleBuy", "Slot":"Slot03_Size6", "SellItem":"$int_passengercabin_size6_class2_name;", "SellItem_Localised":"BC Passenger Cabin", "SellPrice":184232, "BuyItem":"$int_cargorack_size6_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":362591, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T01:17:40Z", "event":"ModuleBuy", "Slot":"Slot04_Size5", "SellItem":"$int_dronecontrol_collection_size5_class5_name;", "SellItem_Localised":"Collector", "SellPrice":777600, "BuyItem":"$int_cargorack_size5_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":111566, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T01:17:47Z", "event":"ModuleBuy", "Slot":"Slot05_Size5", "SellItem":"$int_dronecontrol_collection_size5_class5_name;", "SellItem_Localised":"Collector", "SellPrice":777600, "BuyItem":"$int_cargorack_size5_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":111566, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T01:17:53Z", "event":"ModuleBuy", "Slot":"Slot06_Size4", "SellItem":"$int_refinery_size4_class5_name;", "SellItem_Localised":"Refinery", "SellPrice":4500846, "BuyItem":"$int_cargorack_size4_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":34328, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T01:18:01Z", "event":"ModuleBuy", "Slot":"Slot07_Size3", "SellItem":"$int_dronecontrol_prospector_size3_class5_name;", "SellItem_Localised":"Prospector", "SellPrice":86400, "BuyItem":"$int_cargorack_size3_class1_name;", "BuyItem_Localised":"Cargo Rack", "BuyPrice":10563, "Ship":"python", "ShipID":14 }
+{ "timestamp":"2016-11-27T01:19:44Z", "event":"SellExplorationData", "Systems":[ "Cephei Sector MX-U b2-0", "Basus", "Hared", "Cephei Sector PI-T b3-4" ], "Discovered":[  ], "BaseValue":10324, "Bonus":0 }
