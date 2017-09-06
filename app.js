@@ -11,10 +11,13 @@ const plotly = require('plotly')(APIUSER, APIKEY);
 
 const express = require('express')
 const app = express()
-
+app.use(express.static('public'))
 let colors = [];
 app.set('view engine', 'pug')
-app.get('/', function (req, res) {
+app.get('/browser',function(req,res){
+    res.sendFile(__dirname +'/dash.html');
+})
+app.get('/getdistance', function (req, res) {
     let events = [];
     let  trace1 = {
             x : [
@@ -26,7 +29,7 @@ app.get('/', function (req, res) {
             z : [
         
             ],
-            mode: 'line',
+            mode: 'lines',
             line: {
               color: 1,
               reversescale: false,
@@ -36,7 +39,7 @@ app.get('/', function (req, res) {
           };
     let dir = "ed_journals";
     let requests;
-    let cmdr = "Von Cadfael";
+    let cmdr = "Blantyre";
 
     
     fs.readdir(dir, function(err, list) {
@@ -74,9 +77,10 @@ app.get('/', function (req, res) {
                  
              }
              console.log(total_dist);
-           fs.readFile('index.html', "utf8", function(err, data) {
-            res.send(data.replace('__trace__',JSON.stringify(trace1).slice(0, -1)).replace('__colors__',total_dist.toString()).toString());
-           });
+           //fs.readFile('index.html', "utf8", function(err, data) {
+            //res.send(data.replace('__trace__',JSON.stringify(trace1).slice(0, -1)).replace('__colors__',total_dist.toString()).toString());
+           //});
+           res.send({trace1 : trace1,colors:total_dist});
 
         });
     })
