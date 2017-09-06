@@ -12,12 +12,12 @@ const plotly = require('plotly')(APIUSER, APIKEY);
 const express = require('express')
 const app = express()
 app.use(express.static('public'))
-let colors = [];
+
 app.set('view engine', 'pug')
 app.get('/browser',function(req,res){
     res.sendFile(__dirname +'/dash.html');
 })
-app.get('/getdistance', function (req, res) {
+app.get('/getdistance/:_cmdr', function (req, res) {
     let events = [];
     let  trace1 = {
             x : [
@@ -39,7 +39,7 @@ app.get('/getdistance', function (req, res) {
           };
     let dir = "ed_journals";
     let requests;
-    let cmdr = "Blantyre";
+    let cmdr = req.params._cmdr;
 
     
     fs.readdir(dir, function(err, list) {
@@ -50,6 +50,7 @@ app.get('/getdistance', function (req, res) {
         if (!pending) return done(null, results);
         const fileCount = list.length;
         let filesRead = 0;
+        let colors = [];
         requests = list.map(function(file){
             return new Promise((resolve) => {
                 fs.readFile(dir+'/'+file, function(err, data) {
@@ -59,15 +60,15 @@ app.get('/getdistance', function (req, res) {
                 });
                 
               });
-            //console.log(dir+'/'+file);
+            ////console.log(dir+'/'+file);
             
         });
-         //console.log(trace1);
+         ////console.log(trace1);
          Promise.all(requests).then(() => {
              let total_dist = []
-             console.log(colors);
+             //console.log(colors);
              for (var x = 0; x < colors.length-1; x++) {
-                console.log(utils.ThreeDdistance(colors[x],colors[x+1]));
+                //console.log(utils.ThreeDdistance(colors[x],colors[x+1]));
                 if(total_dist.length>1){
                  total_dist.push(total_dist[x-1] + utils.ThreeDdistance(colors[x],colors[x+1]));
                 }
@@ -76,7 +77,7 @@ app.get('/getdistance', function (req, res) {
                 }
                  
              }
-             console.log(total_dist);
+             //console.log(total_dist);
            //fs.readFile('index.html', "utf8", function(err, data) {
             //res.send(data.replace('__trace__',JSON.stringify(trace1).slice(0, -1)).replace('__colors__',total_dist.toString()).toString());
            //});
@@ -89,7 +90,7 @@ app.get('/getdistance', function (req, res) {
 })
 
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
+  //console.log('Example app listening on port 3000!')
 })
 
 
@@ -110,13 +111,13 @@ app.listen(3000, function () {
 
 // rl.on('line', (input) => {
 //     //do some code here
-//     //console.log(input);
+//     ////console.log(input);
 //     let line = JSON.parse(input);
-//     // /console.log(line)
+//     // ///console.log(line)
 //     //events.push(line.event)
 //     if(line.event=="FSDJump"){
 //         let sp = line.StarPos;
-//         console.log(sp);
+//         //console.log(sp);
 //         trace1.x.push(sp[0]);
 //         trace1.y.push(sp[1]);
 //         trace1.z.push(sp[2]);
@@ -130,7 +131,7 @@ app.listen(3000, function () {
         
     
 //     //let result = [...new Set(events)];
-//     console.log(trace1);
+//     //console.log(trace1);
 //     // var data = [trace1];
 //     // var layout = {margin: {
 //     //     l: 0,
@@ -140,7 +141,7 @@ app.listen(3000, function () {
 //     //   }};
 //     // var graphOptions = {layout: layout, filename: "simple-3d-scatter", fileopt: "overwrite"};
 //     // plotly.plot(data, graphOptions, function (err, msg) {
-//     //     console.log(msg);
+//     //     //console.log(msg);
 //     // });
 //     }
 // });

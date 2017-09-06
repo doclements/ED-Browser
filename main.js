@@ -46,19 +46,19 @@ fs.readdir(dir, function(err, list) {
             });
             
           });
-        //console.log(dir+'/'+file);
+        ////console.log(dir+'/'+file);
         
     });
-     //console.log(trace1);
+     ////console.log(trace1);
      Promise.all(requests).then(() => {
       
-        //console.log(storage);
+        ////console.log(storage);
         let total_dist = 0;
         for (var x = 0; x < storage.length-1; x++) {
            let dist =  utils.ThreeDdistance(storage[x],storage[x+1]);
         total_dist = total_dist + dist;
         }
-        console.log(total_dist);
+        //console.log(total_dist);
       
 
     });

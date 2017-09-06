@@ -10,7 +10,7 @@
     crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/main.css">
-    <script src="ouput_files/plotly-latest.js"></script><style></style>
+    <script src="https://cdn.plot.ly/plotly-latest.js"></script><style></style>
   </head>
   <body>
 
@@ -33,10 +33,18 @@ Elite Dangerous Journal Explorer V.0.0.1      </h1>
                           <option class="type_select" value="4">Murder counter</option>
                         </select>
                       </div>
+                      <div class="select" id="cmdr" style="display:none; ")>
+                        <select>
+                          <option class="type_select" value="Blantyre">Blantyre</option>
+                          <option class="type_select" value="Coccolithophore" >Coccolithophore</option>
+                          <option class="type_select" value="Von Cadfael">Von Cadfael</option>
+
+                        </select>
+                      </div>
                     </div>
             </div>
             <div class="column is-three-quarters" id="plotly-div" style="height:600px;">
-              Second column
+       
             </div>
             
           </div>
@@ -45,25 +53,29 @@ Elite Dangerous Journal Explorer V.0.0.1      </h1>
   </body>
   <script>
       $('document').ready(function() {
-        console.log("init");
+        //console.log("init");
+        $('#cmdr').on('click','.type_select', function(e){
+          showDistanceTravelled($(this).val());
+        })
         $('#demo').on('click','.type_select', function(e){
-            console.log($(this).val());
+          $('#cmdr').toggle();
+            //console.log($(this).val());
             switch ($(this).val()) {
                 case '1':
-                    console.log('Initialising Distance Travvelled');
-                    showDistanceTravelled();
+                    //console.log('Initialising Distance Travvelled');
+                    showDistanceTravelled("Blantyre");
                     break;
                 case '2':
-                    console.log('Initialising Mats Browser');
+                    //console.log('Initialising Mats Browser');
                     break;
                 case '3':
-                    console.log('Initialising ReBuy Counter');
+                    //console.log('Initialising ReBuy Counter');
                     break;
                 case '4':
-                    console.log('Initialising Murder Counter');
+                    //console.log('Initialising Murder Counter');
                     break;
                 default:
-                    console.log('Sorry, we are out of ' + expr + '.');
+                    //console.log('Sorry, we are out of ' + expr + '.');
             }
         })
 
@@ -71,12 +83,12 @@ Elite Dangerous Journal Explorer V.0.0.1      </h1>
 
 
 
-      let showDistanceTravelled = function(){
+      let showDistanceTravelled = function(cmdr){
 
         $.get({
-          url : "/getdistance",
+          url : "/getdistance/"+cmdr,
           success : function(data){
-            console.log(data);
+            //console.log(data);
 let trace1 = data.trace1;
 let colors = data.colors;
 trace1.line.color = colors;
@@ -88,9 +100,9 @@ b: 0,
 l: 0
 }};
 
-console.log(data)
-
-Plotly.plot('plotly-div', {
+//console.log(data)
+$('plotly-div').html('');
+Plotly.newPlot('plotly-div', {
   data: data,
   layout: layout
 });
