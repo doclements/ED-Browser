@@ -4,10 +4,8 @@ const utils = require('./utils.js');
 
 
 const inputFile = fs.createReadStream("ed_journals/Journal.161213191106.01.log");
-const APIKEY = 'Lx9Gc3KIAJW34zCRycqL';
-const APIUSER = 'doclements'
 
-const plotly = require('plotly')(APIUSER, APIKEY);
+
 
 const express = require('express')
 const app = express()
