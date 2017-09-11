@@ -7,12 +7,15 @@
   "dependencies": {
     "bulma": "^0.5.1",
     "express": "^4.15.4",
+    "geotiff": "^0.4.1",
     "plotly": "^1.0.6",
+    "proj4": "^2.4.4",
     "pug": "^2.0.0-rc.3"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-sass": "^2.0.0"
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
   },
   "scripts": {
     "start": "babel-node index.js --presets es2015,stage-2"

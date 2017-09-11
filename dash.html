@@ -11,58 +11,18 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/main.css">
     <script src="https://cdn.plot.ly/plotly-latest.js"></script><style></style>
-  </head>
-  <body>
-
-  <section class="section is-centered">
-    <div class="container">
-      <h1 class="title">
-Elite Dangerous Journal Explorer V.0.0.1      </h1>
-      <p class="subtitle">
-        This site is more an experiument in using Plotly and an oppertunity to get familkiar with the ED journal structure. Select a tyoe of analysis from teh drop down and start playing.
-      </p>
-      <div class="columns">
-            <div class="column red">
-                Choose a Statistic:
-                <div class="control">
-                <div class="select" id="demo">
-                        <select>
-                          <option class="type_select" value="1">Distance Travelled</option>
-                          <option class="type_select" value="2" >Materials browser</option>
-                          <option class="type_select" value="3">ReBuy counter</option>
-                          <option class="type_select" value="4">Murder counter</option>
-                        </select>
-                      </div>
-                      <div class="select" id="cmdr" style="display:none; ")>
-                        <select>
-                          <option class="type_select" value="Blantyre">Blantyre</option>
-                          <option class="type_select" value="Coccolithophore" >Coccolithophore</option>
-                          <option class="type_select" value="Von Cadfael">Von Cadfael</option>
-
-                        </select>
-                      </div>
-                    </div>
-            </div>
-            <div class="column is-three-quarters" id="plotly-div" style="height:600px;">
-       
-            </div>
-            
-          </div>
-    </div>
-  </section>
-  </body>
-  <script>
+    <script>
       $('document').ready(function() {
-        //console.log("init");
+        console.log("init");
         $('#cmdr').on('click','.type_select', function(e){
           showDistanceTravelled($(this).val());
         })
         $('#demo').on('click','.type_select', function(e){
           $('#cmdr').toggle();
-            //console.log($(this).val());
+            console.log($(this).val());
             switch ($(this).val()) {
                 case '1':
-                    //console.log('Initialising Distance Travvelled');
+                    console.log('Initialising Distance Travvelled');
                     showDistanceTravelled("Blantyre");
                     break;
                 case '2':
@@ -102,7 +62,7 @@ l: 0
 
 //console.log(data)
 $('plotly-div').html('');
-Plotly.newPlot('plotly-div', {
+Plotly.plot('plotly-div', {
   data: data,
   layout: layout
 });
@@ -117,4 +77,45 @@ Plotly.newPlot('plotly-div', {
 
 
 </script>
+  </head>
+  <body>
+
+  <section class="section is-centered">
+    <div class="container">
+      <h1 class="title">
+Elite Dangerous Journal Explorer V.0.0.1      </h1>
+      <p class="subtitle">
+        This site is more an experiument in using Plotly and an oppertunity to get familkiar with the ED journal structure. Select a tyoe of analysis from teh drop down and start playing.
+      </p>
+      <div class="columns">
+            <div class="column red">
+                Choose a Statistic:
+                <div class="control">
+                  <div class="select" id="demo">
+                          <select>
+                            <option class="type_select" value="1">Distance Travelled</option>
+                            <option class="type_select" value="2" >Materials browser</option>
+                            <option class="type_select" value="3">ReBuy counter</option>
+                            <option class="type_select" value="4">Murder counter</option>
+                          </select>
+                  </div>
+                  <div class="select" id="cmdr" style="display:none; ">
+                          <select>
+                            <option class="type_select" value="Blantyre">Blantyre</option>
+                            <option class="type_select" value="Coccolithophore" >Coccolithophore</option>
+                            <option class="type_select" value="Von Cadfael">Von Cadfael</option>
+
+                          </select>
+                  </div>
+                </div>
+            </div>
+            <div class="column is-three-quarters" id="plotly-div" style="height:600px;">
+       
+            </div>
+            
+          </div>
+    </div>
+  </section>
+  </body>
+  
 </html>
