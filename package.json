@@ -7,6 +7,8 @@
   "dependencies": {
     "bulma": "^0.5.1",
     "express": "^4.15.4",
+    "fast-csv": "^2.4.0",
+    "gdal": "^0.9.6",
     "geotiff": "^0.4.1",
     "plotly": "^1.0.6",
     "proj4": "^2.4.4",

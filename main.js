@@ -2,6 +2,8 @@ const utils = require('./utils.js');
 const fs = require('fs');
 
 
+
+
 utils.sayHello('test');
 let dir = "ed_journals";
 let requests;
