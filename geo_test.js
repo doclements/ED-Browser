@@ -1,29 +1,46 @@
-const api_key = "m2JS34zq29wEb62BzDUI";
+const api_key = 'g5JQdJcLgVqJnE17vUov';
 const username = "doclements";
 
 const plotly = require('plotly')(username, api_key);
 var GeoTIFF = require("geotiff");
-
-const gfile = 'data/gebco.tif';
-
-
-
-var fs = require("fs");
-
-fs.readFile(gfile, function(err, data) {
- if (err) throw err;
- dataArray = data.buffer.slice(data.byteOffset, data.byteOffset + data.byteLength);
- var tiff = GeoTIFF.parse(dataArray);
- console.log(tiff);
- let image = tiff.getImage();
- console.log(image.getOrigin());
- console.log(image.getBoundingBox());
- console.log(image.fileDirectory.GDAL_METADATA)
-});
+var nc = require('netcdf4');
+const gfile = 'data/gebco_glider.tif';
 
 
 
+// var fs = require("fs");
 
+// fs.readFile(gfile, function(err, data) {
+//  if (err) throw err;
+//  dataArray = data.buffer.slice(data.byteOffset, data.byteOffset + data.byteLength);
+//  var tiff = GeoTIFF.parse(dataArray);
+//  console.log(tiff);
+//  let image = tiff.getImage();
+//  console.log(image.getOrigin());
+//  //console.log(image.getGDALMetadata());
+//  console.log(image.fileDirectory.GDAL_METADATA)
+// });
+
+
+
+ncfile = new nc.File('data/553_bathy/gebco.nc','r');
+
+console.log(ncfile);
+
+console.log(ncfile.root.dimensions['lat'].length)
+console.log(ncfile.root.dimensions['lon'].length)
+
+ncfile.root.variables['elevation'].dimensions.map(function(x){ console.log(x.name)});
+
+for (var x = 0; x < ncfile.root.dimensions['lat'].length; x++) {
+   for (var y = 0; y < ncfile.root.dimensions['lon'].length; y++) {
+      //var element = ncfile.root.dimensions['lat'][y];
+      console.log(ncfile.root.variables['elevation'].read(x,y));
+      
+   }
+   
+   
+}
 
 
 
@@ -56,5 +73,6 @@ fs.readFile(gfile, function(err, data) {
 //  };
 //  var graphOptions = {layout: layout, filename: "elevations-3d-surface", fileopt: "overwrite"};
 //  plotly.plot(data, graphOptions, function (err, msg) {
+//     if(err) console.log(err);
 //      console.log(msg);
 //  });

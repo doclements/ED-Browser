@@ -40,7 +40,7 @@ let  trace1 = {
     line: {
       color: [],
       reversescale: false,
-      colorscale: 'Bluered',
+      colorscale: 'RdBu',
       text: [],
       width: 6
     },
@@ -48,16 +48,16 @@ let  trace1 = {
   };
 let colors = [],
 count = 0;
-csv.fromPath("glider.csv")
+csv.fromPath("data/553_glider.csv")
 .on("data", function(data){
 
-    if((count<3000)){
-    if(data[0].length>0 & !looking ){
+    //if((count>100)){
+    if(data[0].length>0 & !looking & count > 100){
     //console.log(data);
     looking = true;
     holder.push(data[0],data[1],data[2]);
-    trace1.x.push(data[1]);
-    trace1.y.push(data[2]);
+    trace1.x.push(data[2]);
+    trace1.y.push(data[1]);
 
     trace1.z.push(data[0]);
     trace2.x.push(data[1]);
@@ -79,20 +79,29 @@ csv.fromPath("glider.csv")
             trace1.line.color.push(data[3])
             trace2.marker.color.push(data[3])
             holder = [];
-            count++;
+            
         }
     }
-}
+    count++;
+//}
 })
 .on("end", function(){
     console.log("done");
     console.log(trace1.line.color);
     trace1.line.text = trace1.line.color;
     var layout = {
-        title: "Mt Bruno Elevation",
+        title: "Glider 553 Test",
         autosize: false,
-        width: 1000,
-        height: 1000,
+        width: 1500,
+        height: 750,
+        scene: {
+            aspectratio: {
+                x: 2,
+                y: 1,
+                z: 1
+                
+            }
+        },
         margin: {
           l: 65,
           r: 50,
@@ -101,8 +110,8 @@ csv.fromPath("glider.csv")
         },
         hoverinfo: 'all'
       };
-      var graphOptions = {layout: layout, filename: "elevations-3d-surface", fileopt: "overwrite"};
-      plotly.plot([trace2], graphOptions, function (err, msg) {
+      var graphOptions = {layout: layout, filename: "Glider 553", fileopt: "overwrite"};
+      plotly.plot([trace1], graphOptions, function (err, msg) {
           if(err) console.log(err);
           console.log(msg);
       });
