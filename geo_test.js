@@ -21,7 +21,12 @@ const gfile = 'data/gebco_glider.tif';
 //  console.log(image.fileDirectory.GDAL_METADATA)
 // });
 
-
+var trace = {
+   type: 'surface',
+   x: [],
+   y: [],
+   z: [  ]
+ }
 
 ncfile = new nc.File('data/553_bathy/gebco.nc','r');
 
@@ -36,19 +41,20 @@ var lines = [];
 for (var x = 0; x < ncfile.root.dimensions['lat'].length ; x++) {
    //console.log("----------------------------------------------------");
    var line = []
+   trace.x.push(ncfile.root.variables['lat'].read(x));
    for (var y = 0; y < ncfile.root.dimensions['lon'].length ; y++) {
       //var element = ncfile.root.dimensions['lat'][y];
       //console.log(x,y)
       //console.log(ncfile.root.variables['elevation'].read(x,y));
       line.push(ncfile.root.variables['elevation'].read(x,y))
+      trace.y.push(ncfile.root.variables['lon'].read(y));
       
    }
 
-   lines.push(line);
+   trace.z.push(line);
    
 }
 
-console.log(lines.length);
 
 
 
@@ -69,8 +75,8 @@ var data = [
  var layout = {
    title: "gebco_test",
    autosize: false,
-   width: ncfile.root.dimensions['lon'].length * 10,
-   height: ncfile.root.dimensions['lat'].length * 10,
+   //width: ncfile.root.dimensions['lon'].length * 10,
+   //height: ncfile.root.dimensions['lat'].length * 10,
    margin: {
      l: 65,
      r: 50,
@@ -79,7 +85,7 @@ var data = [
    }
  };
  var graphOptions = {layout: layout, filename: "gebco_test", fileopt: "overwrite"};
- plotly.plot(data, graphOptions, function (err, msg) {
+ plotly.plot(trace, graphOptions, function (err, msg) {
     if(err) console.log(err);
      console.log(msg);
  });
