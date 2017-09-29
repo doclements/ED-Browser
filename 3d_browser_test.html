@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script
+    src="https://code.jquery.com/jquery-3.2.1.min.js"
+    integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+    crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body>
+        <div id="plotly-div" style="width:80%;height:95%;"></div>
+    <script>
+    
+  var layout = {
+   title: "Glider 553 Test",
+   autosize: false,
+   width: 1500,
+   height: 750,
+   scene: {
+       aspectratio: {
+           x: 2,
+           y: 1,
+           z: 1
+           
+       }
+   },
+   margin: {
+     l: 65,
+     r: 50,
+     b: 65,
+     t: 90
+   },
+   hoverinfo: 'all'
+ };
+
+
+var global_data = {};
+
+$.when(
+   $.getJSON('/trace1.json', function(j){
+      global_data.trace1 = j;
+   }),
+   $.getJSON('/trace_bathy.json', function(j){
+      global_data.trace_bathy = j;
+   }),
+   $.getJSON('/trace_overlay.json', function(j){
+      global_data.trace_overlay = j;
+   }),
+   $.getJSON('/trace_fronts.json', function(j){
+      global_data.trace_fronts = j;
+   })
+   
+
+).then(function(){
+   
+   var data = [global_data.trace1,global_data.trace_bathy,global_data.trace_overlay, global_data.trace_fronts];
+   var l = layout;
+   Plotly.newPlot('plotly-div', data,l, {
+      displaylogo: false
+
+   });
+
+})
+
+
+    </script>
+</body>
+</html>
